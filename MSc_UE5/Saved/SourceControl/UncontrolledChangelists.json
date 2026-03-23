@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Core/Interfaces/BPI_TestScenario.uasset",
+				"C:/Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Core/Structs/S_Test2Settings.uasset",
+				"C:/Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Core/Structs/S_Test3Settings.uasset",
+				"C:/Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Core/Structs/S_Test1Settings.uasset",
+				"C:/Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Core/Structs/S_GlobalSettungs.uasset",
+				"C:/Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Core/Structs/S_GlobalSettings.uasset",
+				"C:/Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Core/Configs/DA_TestConfig.uasset",
+				"C:/Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Core/Configs/DA_Config_default.uasset"
+			]
+		}
+	]
+}
