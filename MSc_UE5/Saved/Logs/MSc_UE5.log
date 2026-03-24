@@ -4692,3 +4692,410 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2026.03.24-18.40.43:859][910]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.03.24-18.40.43:859][910]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.24-18.40.43:859][910]AssetCheck: /Game/0-Main/Maps/Test3/Map_Test3 Validating asset
+[2026.03.24-18.41.32:949][129]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5884.187988
+[2026.03.24-18.41.33:949][132]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-18.41.33:949][132]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5884.854004, Update Interval: 317.135529
+[2026.03.24-18.41.53:137][190]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.03.24-18.41.53:137][190]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.03.24-18.47.37:217][179]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6248.442871
+[2026.03.24-18.47.37:409][199]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-18.47.37:409][199]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6248.625000, Update Interval: 309.613342
+[2026.03.24-18.53.34:069][154]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6605.284180
+[2026.03.24-18.53.34:233][170]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-18.53.34:233][170]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6605.437988, Update Interval: 352.558350
+[2026.03.24-19.00.21:203][375]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7012.437500
+[2026.03.24-19.00.22:203][378]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-19.00.22:203][378]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7013.104004, Update Interval: 330.585052
+[2026.03.24-19.05.24:773][285]LogDerivedDataCache: C:/Users/2004i/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.24-19.06.32:277][488]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7383.517578
+[2026.03.24-19.06.33:277][490]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-19.06.33:278][490]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7384.184082, Update Interval: 319.503174
+[2026.03.24-19.12.36:712][581]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7747.951660
+[2026.03.24-19.12.37:712][584]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-19.12.37:712][584]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7748.619141, Update Interval: 304.306763
+[2026.03.24-19.14.58:723][  6]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.03.24-19.14.58:724][  6]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.03.24-19.15.08:764][892]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.03.24-19.15.08:765][892]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.03.24-19.15.12:048][163]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2026.03.24-19.15.12:061][163]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2026.03.24-19.15.12:100][165]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2026.03.24-19.15.18:482][808]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> E_ItemType
+[2026.03.24-19.15.18:488][808]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2026.03.24-19.15.21:963][147]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/0-Main/Data/Test2/E_ItemType.E_ItemType
+[2026.03.24-19.16.00:538][720]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-19.16.00:609][720]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/0-Main/Data/Test2/E_ItemType] ([1] browsable assets)...
+[2026.03.24-19.16.00:609][720]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Data/Test2/E_ItemType]
+[2026.03.24-19.16.00:618][720]LogSavePackage: Moving output files for package: /Game/0-Main/Data/Test2/E_ItemType
+[2026.03.24-19.16.00:618][720]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/E_ItemTypeFC4DDEEF4C4710FB3141608E1C54D9D6.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Data/Test2/E_ItemType.uasset'
+[2026.03.24-19.16.00:632][720]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.541 ms (total: 2.73 sec)
+[2026.03.24-19.16.00:700][720]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-19.16.00:700][720]LogContentValidation: Enabled validators:
+[2026.03.24-19.16.00:700][720]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-19.16.00:700][720]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-19.16.00:700][720]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-19.16.00:700][720]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-19.16.00:700][720]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-19.16.00:700][720]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-19.16.00:701][720]AssetCheck: /Game/0-Main/Data/Test2/E_ItemType Validating asset
+[2026.03.24-19.16.00:726][720]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.24-19.17.09:443][ 76]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.03.24-19.17.09:443][ 76]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.03.24-19.17.09:631][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-19.17.09:728][ 76]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/0-Main/Data/Test2/E_ItemType] ([1] browsable assets)...
+[2026.03.24-19.17.09:728][ 76]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Data/Test2/E_ItemType]
+[2026.03.24-19.17.09:731][ 76]LogSavePackage: Moving output files for package: /Game/0-Main/Data/Test2/E_ItemType
+[2026.03.24-19.17.09:731][ 76]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/E_ItemTypeFFF5293846BCA17749C8C2932F887715.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Data/Test2/E_ItemType.uasset'
+[2026.03.24-19.17.09:744][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.695 ms (total: 2.84 sec)
+[2026.03.24-19.17.09:837][ 76]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-19.17.09:837][ 76]LogContentValidation: Enabled validators:
+[2026.03.24-19.17.09:837][ 76]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-19.17.09:837][ 76]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-19.17.09:837][ 76]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-19.17.09:837][ 76]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-19.17.09:837][ 76]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-19.17.09:837][ 76]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-19.17.09:837][ 76]AssetCheck: /Game/0-Main/Data/Test2/E_ItemType Validating asset
+[2026.03.24-19.17.14:306][339]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.03.24-19.17.14:306][339]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.03.24-19.17.18:892][597]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2026.03.24-19.17.18:907][597]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2026.03.24-19.17.18:927][598]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedStruct).
+[2026.03.24-19.17.23:149][916]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> S_ItemData
+[2026.03.24-19.17.23:203][916]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2026.03.24-19.17.24:800][ 16]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/0-Main/Data/Test2/S_ItemData.S_ItemData
+[2026.03.24-19.18.20:477][330]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8091.728516
+[2026.03.24-19.18.20:667][345]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-19.18.20:667][345]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8091.906738, Update Interval: 309.909973
+[2026.03.24-19.19.07:477][624]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-19.19.07:559][624]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/0-Main/Data/Test2/S_ItemData] ([1] browsable assets)...
+[2026.03.24-19.19.07:559][624]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Data/Test2/S_ItemData]
+[2026.03.24-19.19.07:568][624]LogSavePackage: Moving output files for package: /Game/0-Main/Data/Test2/S_ItemData
+[2026.03.24-19.19.07:568][624]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/S_ItemData1D06535D48EF911AC5E30FAD9626FE66.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Data/Test2/S_ItemData.uasset'
+[2026.03.24-19.19.07:619][624]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.918 ms (total: 2.98 sec)
+[2026.03.24-19.19.07:708][624]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-19.19.07:708][624]LogContentValidation: Enabled validators:
+[2026.03.24-19.19.07:708][624]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-19.19.07:708][624]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-19.19.07:708][624]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-19.19.07:708][624]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-19.19.07:708][624]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-19.19.07:708][624]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-19.19.07:708][624]AssetCheck: /Game/0-Main/Data/Test2/S_ItemData Validating asset
+[2026.03.24-19.19.07:733][624]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.24-19.20.34:225][105]LogSlate: Window 'Pick Row Structure' being destroyed
+[2026.03.24-19.22.21:046][495]LogStreaming: Display: FlushAsyncLoading(585): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.24-19.22.25:611][495]LogAssetTools: Warning: Two factories registered with same priority : ReimportCurveFactory_0 and ReimportCurveTableFactory_0
+[2026.03.24-19.22.25:612][495]LogFactory: FactoryCreateFile: CurveBase with ReimportCurveFactory (0 1 ../../../../../../Users/2004i/Downloads/DT_Items_1000.csv)
+[2026.03.24-19.22.54:299][495]LogSlate: Window 'DataTable Options' being destroyed
+[2026.03.24-19.22.54:326][495]LogCSVImportFactory: Imported DataTable 'DT_Items_1000' - 2 Problems
+[2026.03.24-19.22.54:326][495]LogCSVImportFactory: 0:Cannot find Property for column 'ItemName' in struct 'S_ItemData'.
+[2026.03.24-19.22.54:326][495]LogCSVImportFactory: 1:Expected column 'Name' not found in input.
+[2026.03.24-19.23.00:076][495]LogSlate: Window 'Message' being destroyed
+[2026.03.24-19.23.00:087][495]Message dialog closed, result: Ok, title: Message, text: Cannot find Property for column 'ItemName' in struct 'S_ItemData'.
+Expected column 'Name' not found in input.
+
+[2026.03.24-19.23.02:601][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.03.24-19.23.02:735][687]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.03.24-19.23.02:747][687]LogSlate: Took 0.011442 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.03.24-19.23.03:479][687]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.24-19.23.03:527][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.03.24-19.23.03:558][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.03.24-19.23.03:587][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.03.24-19.23.06:680][833]LogAssetTools: Warning: Two factories registered with same priority : ReimportCurveFactory_1 and ReimportCurveTableFactory_1
+[2026.03.24-19.23.06:681][833]LogFactory: FactoryCreateFile: CurveBase with ReimportCurveFactory (0 1 ../../../../../../Users/2004i/Downloads/DT_Items_1000.csv)
+[2026.03.24-19.23.14:782][833]LogSlate: Window 'DataTable Options' being destroyed
+[2026.03.24-19.23.14:802][833]LogCSVImportFactory: Imported DataTable 'DT_Items_1000' - 2 Problems
+[2026.03.24-19.23.14:802][833]LogCSVImportFactory: 0:Cannot find Property for column 'ItemName' in struct 'S_ItemData'.
+[2026.03.24-19.23.14:802][833]LogCSVImportFactory: 1:Expected column 'Name' not found in input.
+[2026.03.24-19.23.18:065][833]LogSlate: Window 'Message' being destroyed
+[2026.03.24-19.23.18:076][833]Message dialog closed, result: Ok, title: Message, text: Cannot find Property for column 'ItemName' in struct 'S_ItemData'.
+Expected column 'Name' not found in input.
+
+[2026.03.24-19.23.19:219][900]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/0-Main/Data/Test2/DT_Items_1000.DT_Items_1000
+[2026.03.24-19.23.53:142][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.03.24-19.23.54:275][ 60]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.24-19.23.54:330][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2026.03.24-19.23.54:362][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.03.24-19.23.54:394][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.03.24-19.23.57:703][187]LogAssetTools: Warning: Two factories registered with same priority : ReimportCurveFactory_2 and ReimportCurveTableFactory_2
+[2026.03.24-19.23.57:704][187]LogFactory: FactoryCreateFile: CurveBase with ReimportCurveFactory (0 1 ../../../../../../Users/2004i/Downloads/DT_Items_1000.csv)
+[2026.03.24-19.24.38:340][187]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.03.24-19.24.38:340][187]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.03.24-19.25.07:317][187]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.03.24-19.25.07:317][187]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.03.24-19.25.11:729][187]LogSlate: Window 'DataTable Options' being destroyed
+[2026.03.24-19.25.11:753][187]LogCSVImportFactory: Imported DataTable 'DT_Items_1000' - 2 Problems
+[2026.03.24-19.25.11:753][187]LogCSVImportFactory: 0:Cannot find Property for column 'ItemName' in struct 'S_ItemData'.
+[2026.03.24-19.25.11:753][187]LogCSVImportFactory: 1:Expected column 'Name' not found in input.
+[2026.03.24-19.25.22:457][187]LogSlate: Window 'Message' being destroyed
+[2026.03.24-19.25.22:473][187]Message dialog closed, result: Ok, title: Message, text: Cannot find Property for column 'ItemName' in struct 'S_ItemData'.
+Expected column 'Name' not found in input.
+
+[2026.03.24-19.25.22:488][187]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8513.735352
+[2026.03.24-19.25.22:748][192]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-19.25.22:748][193]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8513.976562, Update Interval: 334.972382
+[2026.03.24-19.25.23:449][240]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/0-Main/Data/Test2/DT_Items_1000.DT_Items_1000
+[2026.03.24-19.25.54:575][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.03.24-19.25.55:569][753]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.24-19.25.55:624][753]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2026.03.24-19.25.55:655][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.03.24-19.25.55:687][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.03.24-19.26.07:936][403]LogAssetTools: Warning: Two factories registered with same priority : ReimportCurveFactory_3 and ReimportCurveTableFactory_3
+[2026.03.24-19.26.07:937][403]LogFactory: FactoryCreateFile: CurveBase with ReimportCurveFactory (0 1 ../../../../../../Users/2004i/Downloads/DT_Items_1000.csv)
+[2026.03.24-19.29.52:086][403]LogSlate: Window 'DataTable Options' being destroyed
+[2026.03.24-19.29.52:101][403]LogAssetTools: The import task was canceled.
+[2026.03.24-19.29.54:618][460]LogAssetTools: Warning: Two factories registered with same priority : ReimportCurveFactory_4 and ReimportCurveTableFactory_4
+[2026.03.24-19.29.54:619][460]LogFactory: FactoryCreateFile: CurveBase with ReimportCurveFactory (0 1 ../../../../../../Users/2004i/Downloads/DT_Items_1000.csv)
+[2026.03.24-19.29.57:621][460]LogSlate: Window 'DataTable Options' being destroyed
+[2026.03.24-19.29.57:645][460]LogCSVImportFactory: Imported DataTable 'DT_Items_1000' - 0 Problems
+[2026.03.24-19.29.58:710][523]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/0-Main/Data/Test2/DT_Items_1000.DT_Items_1000
+[2026.03.24-19.30.19:382][837]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.03.24-19.30.19:382][837]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.03.24-19.30.20:742][900]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.03.24-19.30.20:742][900]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.03.24-19.31.17:260][187]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.03.24-19.31.17:260][187]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.03.24-19.31.17:340][189]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-19.31.17:549][189]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/0-Main/Data/Test2/DT_Items_1000] ([1] browsable assets)...
+[2026.03.24-19.31.17:549][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Data/Test2/DT_Items_1000]
+[2026.03.24-19.31.17:597][189]LogSavePackage: Moving output files for package: /Game/0-Main/Data/Test2/DT_Items_1000
+[2026.03.24-19.31.17:597][189]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/DT_Items_100029F3B8B2492DF261FD297186B45DD96D.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Data/Test2/DT_Items_1000.uasset'
+[2026.03.24-19.31.17:612][189]LogFileHelpers: InternalPromptForCheckoutAndSave took 271.948 ms (total: 3.25 sec)
+[2026.03.24-19.31.17:704][189]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-19.31.17:704][189]LogContentValidation: Enabled validators:
+[2026.03.24-19.31.17:704][189]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-19.31.17:704][189]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-19.31.17:704][189]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-19.31.17:704][189]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-19.31.17:704][189]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-19.31.17:704][189]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-19.31.17:704][189]AssetCheck: /Game/0-Main/Data/Test2/DT_Items_1000 Validating asset
+[2026.03.24-19.31.17:757][189]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.24-19.31.42:544][817]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8893.800781
+[2026.03.24-19.31.42:745][831]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-19.31.42:745][831]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8893.985352, Update Interval: 332.496704
+[2026.03.24-19.32.40:801][582]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.03.24-19.32.40:817][582]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.03.24-19.32.40:836][582]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.03.24-19.32.40:883][584]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.03.24-19.32.44:035][785]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.03.24-19.32.44:035][785]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.03.24-19.32.56:705][638]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Test2_Controller
+[2026.03.24-19.32.56:717][638]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.03.24-19.32.57:188][669]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/0-Main/Scenarios/Test2/BP_Test2_Controller.BP_Test2_Controller
+[2026.03.24-19.32.57:189][669]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.03.24-19.33.03:812][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.03.24-19.33.03:814][  7]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/0-Main/Maps/Test3/Map_Test3' took 0.072
+[2026.03.24-19.33.03:815][  7]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/0-Main/Scenarios/Test2/BP_Test2_Controller] ([2] browsable assets)...
+[2026.03.24-19.33.03:815][  7]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Scenarios/Test2/BP_Test2_Controller]
+[2026.03.24-19.33.03:828][  7]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/0-Main/Scenarios/Test2/BP_Test2_Controller_Auto7
+[2026.03.24-19.33.03:828][  7]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/BP_Test2_Controller_Auto7122803F54C921362348AA7874D009347.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/Autosaves/Game/0-Main/Scenarios/Test2/BP_Test2_Controller_Auto7.uasset'
+[2026.03.24-19.33.03:829][  7]LogFileHelpers: Auto-saving content packages took 0.014
+[2026.03.24-19.34.20:805][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.03.24-19.34.31:554][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.03.24-19.38.00:531][806]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9271.805664
+[2026.03.24-19.38.01:530][808]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-19.38.01:530][808]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9272.470703, Update Interval: 300.001831
+[2026.03.24-19.38.16:037][248]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.24-19.38.16:053][248]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.24-19.38.16:080][249]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.03.24-19.38.18:420][395]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2026.03.24-19.38.18:420][395]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.24-19.38.34:402][816]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.03.24-19.38.34:419][816]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.03.24-19.38.34:433][816]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.03.24-19.38.34:476][817]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.03.24-19.38.41:575][246]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_ShopDialog
+[2026.03.24-19.38.41:588][246]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.03.24-19.39.33:724][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.03.24-19.39.52:717][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2026.03.24-19.39.53:097][391]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-19.39.53:169][391]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/0-Main/Scenarios/Test2/BP_Test2_Controller] ([2] browsable assets)...
+[2026.03.24-19.39.53:169][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Scenarios/Test2/BP_Test2_Controller]
+[2026.03.24-19.39.53:181][391]LogSavePackage: Moving output files for package: /Game/0-Main/Scenarios/Test2/BP_Test2_Controller
+[2026.03.24-19.39.53:181][391]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/BP_Test2_ControllerF2ED5ABF47394CAABAF39A9AFA4E583E.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Scenarios/Test2/BP_Test2_Controller.uasset'
+[2026.03.24-19.39.53:198][391]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.804 ms (total: 3.36 sec)
+[2026.03.24-19.39.53:287][391]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-19.39.53:287][391]LogContentValidation: Enabled validators:
+[2026.03.24-19.39.53:287][391]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-19.39.53:287][391]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-19.39.53:287][391]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-19.39.53:287][391]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-19.39.53:287][391]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-19.39.53:287][391]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-19.39.53:287][391]AssetCheck: /Game/0-Main/Scenarios/Test2/BP_Test2_Controller Validating asset
+[2026.03.24-19.39.53:316][391]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.24-19.43.44:291][615]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9615.583008
+[2026.03.24-19.43.44:456][627]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-19.43.44:456][627]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9615.733398, Update Interval: 354.750214
+[2026.03.24-19.47.28:427][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.03.24-19.47.44:820][ 14]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18414092516842552121
+[2026.03.24-19.47.44:820][ 14]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2026.03.24-19.47.44:830][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-19.47.53:712][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.03.24-19.47.53:716][580]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/0-Main/Maps/Test3/Map_Test3' took 0.033
+[2026.03.24-19.47.53:717][580]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/0-Main/Scenarios/Test2/BP_Test2_Controller] ([2] browsable assets)...
+[2026.03.24-19.47.53:717][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Scenarios/Test2/BP_Test2_Controller]
+[2026.03.24-19.47.53:733][580]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/0-Main/Scenarios/Test2/BP_Test2_Controller_Auto8
+[2026.03.24-19.47.53:733][580]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/BP_Test2_Controller_Auto83613D48B4372559EC161BDB38F05E569.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/Autosaves/Game/0-Main/Scenarios/Test2/BP_Test2_Controller_Auto8.uasset'
+[2026.03.24-19.47.53:734][580]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog] ([2] browsable assets)...
+[2026.03.24-19.47.53:742][580]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/0-Main/Scenarios/Test2/WBP_ShopDialog.WBP_ShopDialog]
+[2026.03.24-19.47.53:742][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog]
+[2026.03.24-19.47.53:751][580]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/0-Main/Scenarios/Test2/WBP_ShopDialog_Auto8
+[2026.03.24-19.47.53:751][580]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/WBP_ShopDialog_Auto83A17A09C449935EAFC25D485B616FCC9.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/Autosaves/Game/0-Main/Scenarios/Test2/WBP_ShopDialog_Auto8.uasset'
+[2026.03.24-19.47.53:753][580]LogFileHelpers: Auto-saving content packages took 0.037
+[2026.03.24-19.50.36:239][444]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10027.581055
+[2026.03.24-19.50.37:068][457]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-19.50.37:068][457]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10028.075195, Update Interval: 302.959076
+[2026.03.24-19.51.17:116][448]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.03.24-19.51.17:116][448]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.03.24-19.51.20:785][649]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.03.24-19.51.20:785][649]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.03.24-19.53.43:951][280]LogEditorTransaction: Undo Change String Pin Value
+[2026.03.24-19.56.32:391][784]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10383.734375
+[2026.03.24-19.56.32:707][785]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.03.24-19.56.32:708][785]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.03.24-19.56.33:021][788]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-19.56.33:021][788]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10384.230469, Update Interval: 314.101379
+[2026.03.24-19.56.34:512][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.03.24-19.56.35:905][930]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-19.56.35:978][930]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/0-Main/Scenarios/Test2/BP_Test2_Controller] ([2] browsable assets)...
+[2026.03.24-19.56.35:979][930]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Scenarios/Test2/BP_Test2_Controller]
+[2026.03.24-19.56.36:001][930]LogSavePackage: Moving output files for package: /Game/0-Main/Scenarios/Test2/BP_Test2_Controller
+[2026.03.24-19.56.36:001][930]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/BP_Test2_Controller8D8DD76741633F9E8B9112984315A828.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Scenarios/Test2/BP_Test2_Controller.uasset'
+[2026.03.24-19.56.36:018][930]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.579 ms (total: 3.47 sec)
+[2026.03.24-19.56.36:093][930]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-19.56.36:093][930]LogContentValidation: Enabled validators:
+[2026.03.24-19.56.36:093][930]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-19.56.36:093][930]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-19.56.36:093][930]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-19.56.36:093][930]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-19.56.36:093][930]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-19.56.36:093][930]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-19.56.36:093][930]AssetCheck: /Game/0-Main/Scenarios/Test2/BP_Test2_Controller Validating asset
+[2026.03.24-19.57.37:539][ 27]LogEditorTransaction: Undo Move Node
+[2026.03.24-19.57.38:325][ 53]LogEditorTransaction: Undo Delete current selection
+[2026.03.24-19.57.39:053][ 89]LogEditorTransaction: Undo Delete current selection
+[2026.03.24-19.58.06:933][723]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.03.24-19.58.06:933][723]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.03.24-19.58.18:487][471]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.03.24-19.58.19:397][525]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-19.58.19:464][525]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/0-Main/Scenarios/Test2/BP_Test2_Controller] ([2] browsable assets)...
+[2026.03.24-19.58.19:464][525]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Scenarios/Test2/BP_Test2_Controller]
+[2026.03.24-19.58.19:484][525]LogSavePackage: Moving output files for package: /Game/0-Main/Scenarios/Test2/BP_Test2_Controller
+[2026.03.24-19.58.19:485][525]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/BP_Test2_ControllerBBEE968849EC0D64166DA3BF15985716.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Scenarios/Test2/BP_Test2_Controller.uasset'
+[2026.03.24-19.58.19:498][525]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.620 ms (total: 3.57 sec)
+[2026.03.24-19.58.19:602][525]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-19.58.19:602][525]LogContentValidation: Enabled validators:
+[2026.03.24-19.58.19:602][525]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-19.58.19:602][525]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-19.58.19:602][525]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-19.58.19:602][525]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-19.58.19:602][525]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-19.58.19:602][525]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-19.58.19:603][525]AssetCheck: /Game/0-Main/Scenarios/Test2/BP_Test2_Controller Validating asset
+[2026.03.24-19.58.44:333][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.03.24-19.58.44:335][128]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/0-Main/Maps/Test3/Map_Test3' took 0.031
+[2026.03.24-19.58.44:335][128]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog] ([2] browsable assets)...
+[2026.03.24-19.58.44:335][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog]
+[2026.03.24-19.58.44:343][128]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/0-Main/Scenarios/Test2/WBP_ShopDialog_Auto9
+[2026.03.24-19.58.44:343][128]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/WBP_ShopDialog_Auto9E85200204C41BE6448C0EBB6B3FB6D82.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/Autosaves/Game/0-Main/Scenarios/Test2/WBP_ShopDialog_Auto9.uasset'
+[2026.03.24-19.58.44:344][128]LogFileHelpers: Auto-saving content packages took 0.009
+[2026.03.24-19.59.40:368][872]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/0-Main/Scenarios/Test2/WBP_ShopDialog.WBP_ShopDialog
+[2026.03.24-19.59.40:370][872]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.03.24-19.59.40:377][872]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.03.24-19.59.40:385][872]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2026.03.24-20.00.50:344][290]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.03.24-20.00.50:821][299]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.03.24-20.02.13:024][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.03.24-20.02.13:583][847]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-20.02.13:659][847]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog] ([2] browsable assets)...
+[2026.03.24-20.02.13:663][847]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/0-Main/Scenarios/Test2/WBP_ShopDialog.WBP_ShopDialog]
+[2026.03.24-20.02.13:663][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog]
+[2026.03.24-20.02.13:675][847]LogSavePackage: Moving output files for package: /Game/0-Main/Scenarios/Test2/WBP_ShopDialog
+[2026.03.24-20.02.13:675][847]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/WBP_ShopDialogE4228B2F446B7DFB9AF071B29143E7B1.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Scenarios/Test2/WBP_ShopDialog.uasset'
+[2026.03.24-20.02.13:691][847]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.816 ms (total: 3.68 sec)
+[2026.03.24-20.02.13:768][847]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-20.02.13:768][847]LogContentValidation: Enabled validators:
+[2026.03.24-20.02.13:768][847]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-20.02.13:768][847]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-20.02.13:768][847]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-20.02.13:768][847]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-20.02.13:768][847]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-20.02.13:768][847]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-20.02.13:768][847]AssetCheck: /Game/0-Main/Scenarios/Test2/WBP_ShopDialog Validating asset
+[2026.03.24-20.02.13:802][847]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.24-20.02.43:321][557]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10754.623047
+[2026.03.24-20.02.43:515][568]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-20.02.43:515][568]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10754.798828, Update Interval: 309.071320
+[2026.03.24-20.02.49:475][898]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.24-20.02.49:476][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-20.02.49:585][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.03.24-20.02.50:475][957]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.24-20.02.50:475][957]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.03.24-20.02.50:475][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-20.02.50:603][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.24-20.02.51:541][ 18]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.24-20.02.51:542][ 18]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.03.24-20.02.51:542][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-20.02.51:657][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.03.24-20.03.25:929][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.03.24-20.05.01:126][147]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.03.24-20.05.01:126][147]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.03.24-20.05.24:773][755]LogDerivedDataCache: C:/Users/2004i/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.24-20.06.31:198][ 92]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.03.24-20.06.31:198][ 92]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.03.24-20.07.58:131][314]LogSlate: Window 'Widget Reflector' being destroyed
+[2026.03.24-20.07.58:144][314]LogSlate: Window 'Widget Reflector' being destroyed
+[2026.03.24-20.08.28:021][326]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11099.325195
+[2026.03.24-20.08.28:211][339]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-20.08.28:211][339]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11099.497070, Update Interval: 332.652374
+[2026.03.24-20.08.53:795][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.03.24-20.09.54:492][685]LogEditorTransaction: Undo Add Node
+[2026.03.24-20.11.05:108][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.03.24-20.11.05:685][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-20.11.05:759][ 61]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog] ([2] browsable assets)...
+[2026.03.24-20.11.05:762][ 61]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/0-Main/Scenarios/Test2/WBP_ShopDialog.WBP_ShopDialog]
+[2026.03.24-20.11.05:762][ 61]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog]
+[2026.03.24-20.11.05:775][ 61]LogSavePackage: Moving output files for package: /Game/0-Main/Scenarios/Test2/WBP_ShopDialog
+[2026.03.24-20.11.05:775][ 61]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/WBP_ShopDialog3C5F373C42C8EBFA366F0EBDCC0A8C84.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Scenarios/Test2/WBP_ShopDialog.uasset'
+[2026.03.24-20.11.05:788][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.767 ms (total: 3.78 sec)
+[2026.03.24-20.11.05:868][ 61]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-20.11.05:868][ 61]LogContentValidation: Enabled validators:
+[2026.03.24-20.11.05:869][ 61]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-20.11.05:869][ 61]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-20.11.05:869][ 61]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-20.11.05:869][ 61]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-20.11.05:869][ 61]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-20.11.05:869][ 61]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-20.11.05:869][ 61]AssetCheck: /Game/0-Main/Scenarios/Test2/WBP_ShopDialog Validating asset
+[2026.03.24-20.12.15:873][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.03.24-20.12.15:877][109]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/0-Main/Maps/Test3/Map_Test3' took 0.031
+[2026.03.24-20.12.15:877][109]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/0-Main/Scenarios/Test2/BP_Test2_Controller] ([2] browsable assets)...
+[2026.03.24-20.12.15:877][109]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Scenarios/Test2/BP_Test2_Controller]
+[2026.03.24-20.12.15:907][109]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/0-Main/Scenarios/Test2/BP_Test2_Controller_Auto0
+[2026.03.24-20.12.15:907][109]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/BP_Test2_Controller_Auto0CBB0E4BA492897BC9E4926B8E0A7786B.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/Autosaves/Game/0-Main/Scenarios/Test2/BP_Test2_Controller_Auto0.uasset'
+[2026.03.24-20.12.15:908][109]LogFileHelpers: Auto-saving content packages took 0.032
+[2026.03.24-20.14.52:089][938]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11483.366211
+[2026.03.24-20.14.53:088][940]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-20.14.53:088][940]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11484.032227, Update Interval: 352.746979
+[2026.03.24-20.14.56:485][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.03.24-20.19.41:789][259]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.03.24-20.19.41:789][259]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.03.24-20.19.42:040][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.03.24-20.19.43:568][342]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-20.19.43:647][342]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/0-Main/Scenarios/Test2/BP_Test2_Controller] ([2] browsable assets)...
+[2026.03.24-20.19.43:647][342]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Scenarios/Test2/BP_Test2_Controller]
+[2026.03.24-20.19.43:669][342]LogSavePackage: Moving output files for package: /Game/0-Main/Scenarios/Test2/BP_Test2_Controller
+[2026.03.24-20.19.43:670][342]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/BP_Test2_ControllerD51EFFA74E9F22EBDD6F80925D82EF0B.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Scenarios/Test2/BP_Test2_Controller.uasset'
+[2026.03.24-20.19.43:685][342]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.479 ms (total: 3.90 sec)
+[2026.03.24-20.19.43:757][342]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-20.19.43:757][342]LogContentValidation: Enabled validators:
+[2026.03.24-20.19.43:757][342]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-20.19.43:757][342]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-20.19.43:757][342]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-20.19.43:757][342]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-20.19.43:757][342]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-20.19.43:757][342]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-20.19.43:757][342]AssetCheck: /Game/0-Main/Scenarios/Test2/BP_Test2_Controller Validating asset
