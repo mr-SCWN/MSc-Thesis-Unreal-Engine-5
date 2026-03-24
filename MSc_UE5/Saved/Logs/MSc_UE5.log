@@ -5099,3 +5099,1376 @@ Expected column 'Name' not found in input.
 [2026.03.24-20.19.43:757][342]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.03.24-20.19.43:757][342]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.24-20.19.43:757][342]AssetCheck: /Game/0-Main/Scenarios/Test2/BP_Test2_Controller Validating asset
+[2026.03.24-20.20.10:726][787]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.03.24-20.20.10:726][787]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.03.24-20.20.57:630][211]Cmd: EDIT COPY
+[2026.03.24-20.21.02:803][688]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2026.03.24-20.21.02:813][688]LogContentBrowser: Creating deferred item: NewWorld
+[2026.03.24-20.21.02:841][690]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2026.03.24-20.21.08:468][224]LogContentBrowser: Attempting asset rename: NewWorld -> Map_Test2
+[2026.03.24-20.21.08:470][224]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Test2
+[2026.03.24-20.21.08:472][224]LogContentBrowser: End creating deferred item NewWorld
+[2026.03.24-20.21.08:879][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.03.24-20.21.10:220][258]LogSlate: Window 'Save Content' being destroyed
+[2026.03.24-20.21.10:236][258]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-20.21.10:345][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.03.24-20.21.10:357][258]LogSavePackage: Moving output files for package: /Game/0-Main/Maps/Test2/Map_Test2
+[2026.03.24-20.21.10:357][258]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/Map_Test26359C2E5471209A1A53DC4A6BD8353F2.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Maps/Test2/Map_Test2.umap'
+[2026.03.24-20.21.10:366][258]LogFileHelpers: Saving map 'Map_Test2' took 0.047
+[2026.03.24-20.21.10:456][258]LogFileHelpers: InternalPromptForCheckoutAndSave took 219.908 ms (total: 4.12 sec)
+[2026.03.24-20.21.10:457][258]LogAssetEditorSubsystem: Opening Asset editor for World /Game/0-Main/Maps/Test2/Map_Test2.Map_Test2
+[2026.03.24-20.21.10:536][258]LogWorld: UWorld::CleanupWorld for Map_Test3, bSessionEnded=true, bCleanupResources=true
+[2026.03.24-20.21.10:536][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-20.21.10:561][258]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.24-20.21.10:565][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.03.24-20.21.10:569][258]LogWorld: UWorld::CleanupWorld for Map_Test2, bSessionEnded=true, bCleanupResources=true
+[2026.03.24-20.21.10:569][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-20.21.10:598][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.03.24-20.21.10:626][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.24-20.21.10:627][258]LogStreaming: Display: FlushAsyncLoading(613): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.24-20.21.10:629][258]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_Test2'.
+[2026.03.24-20.21.10:629][258]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Test2
+[2026.03.24-20.21.10:662][258]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.24-20.21.10:690][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.03.24-20.21.10:700][258]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.24-20.21.10:700][258]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,058ms to complete.
+[2026.03.24-20.21.10:803][258]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-20.21.10:803][258]LogContentValidation: Enabled validators:
+[2026.03.24-20.21.10:803][258]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-20.21.10:803][258]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-20.21.10:803][258]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-20.21.10:803][258]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-20.21.10:803][258]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-20.21.10:803][258]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-20.21.10:803][258]AssetCheck: /Game/0-Main/Maps/Test2/Map_Test2 Validating asset
+[2026.03.24-20.21.10:836][258]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.24-20.21.10:892][260]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.24-20.21.12:383][417]Cmd: EDIT PASTE
+[2026.03.24-20.21.25:795][738]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2026.03.24-20.21.25:795][738]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2026.03.24-20.21.25:796][738]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/0-Main/Maps/Test2/Map_Test2.Map_Test2:PersistentLevel.PlayerStart_0
+[2026.03.24-20.21.25:796][738]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.03.24-20.21.25:797][738]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/0-Main/Maps/Test2/Map_Test2.Map_Test2:PersistentLevel.PlayerStart_0
+[2026.03.24-20.21.25:797][738]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.03.24-20.21.26:370][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.03.24-20.21.26:374][781]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2026.03.24-20.21.26:380][781]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2026.03.24-20.21.26:380][781]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2026.03.24-20.21.26:382][781]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/0-Main/Maps/Test2/Map_Test2.Map_Test2:PersistentLevel.PlayerStart_1
+[2026.03.24-20.21.26:382][781]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.03.24-20.21.26:382][781]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/0-Main/Maps/Test2/Map_Test2.Map_Test2:PersistentLevel.PlayerStart_1
+[2026.03.24-20.21.26:382][781]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.03.24-20.21.30:171][151]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11881.465820
+[2026.03.24-20.21.30:351][169]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-20.21.30:351][170]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11881.634766, Update Interval: 319.816284
+[2026.03.24-20.21.33:412][479]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.24-20.21.33:422][479]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2026.03.24-20.21.33:452][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.03.24-20.21.33:455][479]LogPlayLevel: PlayLevel: Blueprint regeneration took 34 ms (1 blueprints)
+[2026.03.24-20.21.33:485][479]LogPlayLevel: Creating play world package: /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2
+[2026.03.24-20.21.33:486][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001561s)
+[2026.03.24-20.21.33:486][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/0-Main/Maps/Test2/Map_Test2.Map_Test2 to /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2.Map_Test2 (0.001616s)
+[2026.03.24-20.21.33:512][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.03.24-20.21.33:514][479]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Test2
+[2026.03.24-20.21.33:516][479]LogPlayLevel: PIE: World Init took: (0.001724s)
+[2026.03.24-20.21.33:516][479]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2026.03.24-20.21.33:516][479]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.24-20.21.33:516][479]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.24-20.21.33:516][479]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.24-20.21.33:516][479]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.24-20.21.33:517][479]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.24-20.21.33:517][479]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.24-20.21.33:517][479]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.24-20.21.33:517][479]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.24-20.21.33:517][479]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.24-20.21.33:517][479]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.24-20.21.33:517][479]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.24-20.21.33:518][479]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.24-20.21.33:549][479]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.03.24-20.21.33:549][479]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.24-20.21.33:549][479]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.24-20.21.33:549][479]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.24-20.21.33:550][479]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2026.03.24-20.21.33:550][479]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=45
+[2026.03.24-20.21.33:552][479]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2026.03.24-20.21.33:552][479]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2026.03.24-20.21.33:552][479]LogInit: FAudioDevice initialized with ID 45.
+[2026.03.24-20.21.33:552][479]LogAudio: Display: Audio Device (ID: 45) registered with world 'Map_Test2'.
+[2026.03.24-20.21.33:552][479]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2026.03.24-20.21.33:560][479]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2026.03.24-20.21.33:561][479]LogWorld: Bringing World /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2.Map_Test2 up for play (max tick rate 165) at 2026.03.24-21.21.33
+[2026.03.24-20.21.33:561][479]LogWorld: Bringing up level for play took: 0.000708
+[2026.03.24-20.21.33:563][479]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2026.03.24-20.21.33:570][479]PIE: Server logged in
+[2026.03.24-20.21.33:572][479]PIE: Play in editor total start time 0,152 seconds.
+[2026.03.24-20.21.33:662][480]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.24-20.21.37:906][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.24-20.21.37:906][902]LogWorld: BeginTearingDown for /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2
+[2026.03.24-20.21.37:906][902]LogWorld: UWorld::CleanupWorld for Map_Test2, bSessionEnded=true, bCleanupResources=true
+[2026.03.24-20.21.37:906][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-20.21.37:907][902]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.24-20.21.37:912][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-20.21.37:933][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.24-20.21.37:933][902]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2026.03.24-20.21.37:933][902]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45, StreamState=4
+[2026.03.24-20.21.37:937][902]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45, StreamState=2
+[2026.03.24-20.21.37:945][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.03.24-20.21.38:002][903]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2026.03.24-20.21.48:166][885]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-20.21.48:298][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.03.24-20.21.48:311][885]LogSavePackage: Moving output files for package: /Game/0-Main/Maps/Test2/Map_Test2
+[2026.03.24-20.21.48:311][885]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/Map_Test2634124744A46FE95AA245C8ECE5059D9.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Maps/Test2/Map_Test2.umap'
+[2026.03.24-20.21.48:322][885]LogFileHelpers: Saving map 'Map_Test2' took 0.072
+[2026.03.24-20.21.48:337][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 172.486 ms (total: 4.29 sec)
+[2026.03.24-20.21.48:411][885]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-20.21.48:411][885]LogContentValidation: Enabled validators:
+[2026.03.24-20.21.48:411][885]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-20.21.48:411][885]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-20.21.48:411][885]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-20.21.48:411][885]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-20.21.48:411][885]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-20.21.48:411][885]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-20.21.48:411][885]AssetCheck: /Game/0-Main/Maps/Test2/Map_Test2 Validating asset
+[2026.03.24-20.22.05:024][408]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/0-Main/Scenarios/Test2/BP_Test2_Controller.BP_Test2_Controller_C
+[2026.03.24-20.22.05:024][408]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/0-Main/Scenarios/Test2/BP_Test2_Controller.BP_Test2_Controller_C
+[2026.03.24-20.22.05:025][408]LogActorFactory: Actor Factory spawned Blueprint /Game/0-Main/Scenarios/Test2/BP_Test2_Controller.BP_Test2_Controller as actor: BP_Test2_Controller_C /Game/0-Main/Maps/Test2/Map_Test2.Map_Test2:PersistentLevel.BP_Test2_Controller_C_0
+[2026.03.24-20.22.05:026][408]LogActorFactory: Actor Factory spawned Blueprint /Game/0-Main/Scenarios/Test2/BP_Test2_Controller.BP_Test2_Controller as actor: BP_Test2_Controller_C /Game/0-Main/Maps/Test2/Map_Test2.Map_Test2:PersistentLevel.BP_Test2_Controller_C_0
+[2026.03.24-20.22.06:582][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.03.24-20.22.06:585][534]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2026.03.24-20.22.06:590][534]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/0-Main/Scenarios/Test2/BP_Test2_Controller.BP_Test2_Controller_C
+[2026.03.24-20.22.06:590][534]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/0-Main/Scenarios/Test2/BP_Test2_Controller.BP_Test2_Controller_C
+[2026.03.24-20.22.06:592][534]LogActorFactory: Actor Factory spawned Blueprint /Game/0-Main/Scenarios/Test2/BP_Test2_Controller.BP_Test2_Controller as actor: BP_Test2_Controller_C /Game/0-Main/Maps/Test2/Map_Test2.Map_Test2:PersistentLevel.BP_Test2_Controller_C_1
+[2026.03.24-20.22.06:592][534]LogActorFactory: Actor Factory spawned Blueprint /Game/0-Main/Scenarios/Test2/BP_Test2_Controller.BP_Test2_Controller as actor: BP_Test2_Controller_C /Game/0-Main/Maps/Test2/Map_Test2.Map_Test2:PersistentLevel.BP_Test2_Controller_C_1
+[2026.03.24-20.22.12:926][ 71]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/0-Main/Core/Blueprints/BP_TestManager.BP_TestManager_C
+[2026.03.24-20.22.12:926][ 71]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/0-Main/Core/Blueprints/BP_TestManager.BP_TestManager_C
+[2026.03.24-20.22.12:927][ 71]LogActorFactory: Actor Factory spawned Blueprint /Game/0-Main/Core/Blueprints/BP_TestManager.BP_TestManager as actor: BP_TestManager_C /Game/0-Main/Maps/Test2/Map_Test2.Map_Test2:PersistentLevel.BP_TestManager_C_0
+[2026.03.24-20.22.12:927][ 71]LogActorFactory: Actor Factory spawned Blueprint /Game/0-Main/Core/Blueprints/BP_TestManager.BP_TestManager as actor: BP_TestManager_C /Game/0-Main/Maps/Test2/Map_Test2.Map_Test2:PersistentLevel.BP_TestManager_C_0
+[2026.03.24-20.22.13:787][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.03.24-20.22.13:791][138]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2026.03.24-20.22.13:797][138]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/0-Main/Core/Blueprints/BP_TestManager.BP_TestManager_C
+[2026.03.24-20.22.13:797][138]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/0-Main/Core/Blueprints/BP_TestManager.BP_TestManager_C
+[2026.03.24-20.22.13:798][138]LogActorFactory: Actor Factory spawned Blueprint /Game/0-Main/Core/Blueprints/BP_TestManager.BP_TestManager as actor: BP_TestManager_C /Game/0-Main/Maps/Test2/Map_Test2.Map_Test2:PersistentLevel.BP_TestManager_C_1
+[2026.03.24-20.22.13:799][138]LogActorFactory: Actor Factory spawned Blueprint /Game/0-Main/Core/Blueprints/BP_TestManager.BP_TestManager as actor: BP_TestManager_C /Game/0-Main/Maps/Test2/Map_Test2.Map_Test2:PersistentLevel.BP_TestManager_C_1
+[2026.03.24-20.22.37:224][355]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.03.24-20.22.37:224][355]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.03.24-20.23.34:939][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2026.03.24-20.23.41:829][892]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-20.23.41:901][892]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/0-Main/Scenarios/Test2/BP_Test2_Controller] ([2] browsable assets)...
+[2026.03.24-20.23.41:901][892]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Scenarios/Test2/BP_Test2_Controller]
+[2026.03.24-20.23.41:924][892]LogSavePackage: Moving output files for package: /Game/0-Main/Scenarios/Test2/BP_Test2_Controller
+[2026.03.24-20.23.41:924][892]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/BP_Test2_Controller7AFE14074AB2DB9028619B83DE86E678.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Scenarios/Test2/BP_Test2_Controller.uasset'
+[2026.03.24-20.23.41:936][892]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.914 ms (total: 4.40 sec)
+[2026.03.24-20.23.42:012][892]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-20.23.42:012][892]LogContentValidation: Enabled validators:
+[2026.03.24-20.23.42:012][892]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-20.23.42:012][892]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-20.23.42:012][892]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-20.23.42:012][892]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-20.23.42:012][892]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-20.23.42:012][892]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-20.23.42:013][892]AssetCheck: /Game/0-Main/Scenarios/Test2/BP_Test2_Controller Validating asset
+[2026.03.24-20.23.59:589][385]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-20.23.59:715][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.03.24-20.23.59:731][385]LogSavePackage: Moving output files for package: /Game/0-Main/Maps/Test2/Map_Test2
+[2026.03.24-20.23.59:732][385]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/Map_Test2D0214A454E4FA85F9F0D3AA2E4DF49F3.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Maps/Test2/Map_Test2.umap'
+[2026.03.24-20.23.59:742][385]LogFileHelpers: Saving map 'Map_Test2' took 0.074
+[2026.03.24-20.23.59:754][385]LogFileHelpers: InternalPromptForCheckoutAndSave took 165.094 ms (total: 4.56 sec)
+[2026.03.24-20.23.59:828][385]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-20.23.59:828][385]LogContentValidation: Enabled validators:
+[2026.03.24-20.23.59:828][385]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-20.23.59:828][385]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-20.23.59:828][385]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-20.23.59:828][385]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-20.23.59:828][385]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-20.23.59:828][385]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-20.23.59:828][385]AssetCheck: /Game/0-Main/Maps/Test2/Map_Test2 Validating asset
+[2026.03.24-20.24.26:386][357]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-20.24.26:469][357]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/0-Main/Core/Configs/DA_Config_default] ([1] browsable assets)...
+[2026.03.24-20.24.26:469][357]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Core/Configs/DA_Config_default]
+[2026.03.24-20.24.26:477][357]LogSavePackage: Moving output files for package: /Game/0-Main/Core/Configs/DA_Config_default
+[2026.03.24-20.24.26:478][357]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/DA_Config_defaultDA73CC8C4D874FDC65281099E468BAD4.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Core/Configs/DA_Config_default.uasset'
+[2026.03.24-20.24.26:493][357]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.898 ms (total: 4.67 sec)
+[2026.03.24-20.24.26:568][357]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-20.24.26:568][357]LogContentValidation: Enabled validators:
+[2026.03.24-20.24.26:568][357]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-20.24.26:568][357]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-20.24.26:568][357]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-20.24.26:568][357]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-20.24.26:568][357]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-20.24.26:568][357]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-20.24.26:569][357]AssetCheck: /Game/0-Main/Core/Configs/DA_Config_default Validating asset
+[2026.03.24-20.24.35:073][ 42]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.24-20.24.35:091][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.24-20.24.35:114][ 42]LogPlayLevel: Creating play world package: /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2
+[2026.03.24-20.24.35:116][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001807s)
+[2026.03.24-20.24.35:116][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/0-Main/Maps/Test2/Map_Test2.Map_Test2 to /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2.Map_Test2 (0.001862s)
+[2026.03.24-20.24.35:137][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.03.24-20.24.35:143][ 42]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Test2
+[2026.03.24-20.24.35:145][ 42]LogPlayLevel: PIE: World Init took: (0.001974s)
+[2026.03.24-20.24.35:145][ 42]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2026.03.24-20.24.35:145][ 42]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.24-20.24.35:145][ 42]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.24-20.24.35:145][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.24-20.24.35:145][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.24-20.24.35:145][ 42]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.24-20.24.35:145][ 42]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.24-20.24.35:145][ 42]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.24-20.24.35:145][ 42]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.24-20.24.35:145][ 42]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.24-20.24.35:146][ 42]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.24-20.24.35:146][ 42]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.24-20.24.35:149][ 42]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.24-20.24.35:177][ 42]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.03.24-20.24.35:177][ 42]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.24-20.24.35:177][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.24-20.24.35:177][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.24-20.24.35:178][ 42]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2026.03.24-20.24.35:178][ 42]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=46
+[2026.03.24-20.24.35:180][ 42]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2026.03.24-20.24.35:180][ 42]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2026.03.24-20.24.35:180][ 42]LogInit: FAudioDevice initialized with ID 46.
+[2026.03.24-20.24.35:180][ 42]LogAudio: Display: Audio Device (ID: 46) registered with world 'Map_Test2'.
+[2026.03.24-20.24.35:180][ 42]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 46
+[2026.03.24-20.24.35:185][ 42]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2026.03.24-20.24.35:186][ 42]LogWorld: Bringing World /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2.Map_Test2 up for play (max tick rate 165) at 2026.03.24-21.24.35
+[2026.03.24-20.24.35:186][ 42]LogWorld: Bringing up level for play took: 0.000794
+[2026.03.24-20.24.35:188][ 42]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2026.03.24-20.24.35:192][ 42]t.MaxFPS = "165"
+[2026.03.24-20.24.35:192][ 42]r.VSync = "0"
+[2026.03.24-20.24.35:217][ 42]LogBlueprintUserMessages: [BP_Test2_Controller_C_1] TEST2 STARTCatalogSize=20;CatalogRows.length=992;CriteriaCount=2;DialogOptionsCount=2;SellerGoal=0;PlayerProfile=0;
+[2026.03.24-20.24.35:221][ 42]PIE: Server logged in
+[2026.03.24-20.24.35:224][ 42]PIE: Play in editor total start time 0,142 seconds.
+[2026.03.24-20.24.35:242][ 43]LogCsvProfiler: Display: Capture Starting
+[2026.03.24-20.24.35:243][ 43]LogCsvProfiler: Display: Metadata set : csvid="E7EDED2143C288EF77F864A457DDF15E"
+[2026.03.24-20.24.35:243][ 43]LogCsvProfiler: Display: Capture started. CSV ID: E7EDED2143C288EF77F864A457DDF15E
+[2026.03.24-20.24.35:243][ 43]LogCsvProfiler: Display: Metadata set : starttimestamp="1774383875"
+[2026.03.24-20.24.35:246][ 43]LogCsvProfiler: Csv profiler benchmark completed (10000 iterations). Time taken: 3.65ms
+[2026.03.24-20.24.35:246][ 43]LogCsvProfiler: Timing stat ns: 64.37ns
+[2026.03.24-20.24.35:246][ 43]LogCsvProfiler: Custom stat ns: 26.99ns
+[2026.03.24-20.24.35:246][ 43]LogCsvProfiler: Display: Metadata set : csvbench_timingstat_ns="64.365000"
+[2026.03.24-20.24.35:246][ 43]LogCsvProfiler: Display: Metadata set : csvbench_customstat_ns="26.990000"
+[2026.03.24-20.24.35:246][ 43]LogCsvProfiler: Display: Metadata set : csvbench_duration_ms="3.654700"
+[2026.03.24-20.24.35:280][ 43]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.24-20.24.55:157][ 80]LogCsvProfiler: Display: CSVEvent "Cmd: csvprofile stop" [Frame 2037]
+[2026.03.24-20.24.55:157][ 80]LogCsvProfiler: Display: Metadata set : endtimestamp="1774383895"
+[2026.03.24-20.24.55:157][ 80]LogCsvProfiler: Display: Metadata set : captureduration="19.913743"
+[2026.03.24-20.24.55:157][ 80]LogBlueprintUserMessages: [BP_TestManager_C_1] RUN_END;RunIDjScenario;MapMap_Test2;Tmax20.0;FPSavg105.946194;FPSmin2.999896;FPSmax137.481681;FRAMEavg0.009852;FRAMEmin0.007274;FRAMEmax0.333345;
+[2026.03.24-20.24.55:499][ 81]LogCsvProfiler: Display: Capture Stop requested
+[2026.03.24-20.24.55:499][ 81]LogStreaming: Display: Dumping async load requests & callstacks to ../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/Profiling/AsyncLoadRequests_2026.03.24-21.24.55.log
+[2026.03.24-20.24.55:565][ 81]LogCsvProfiler: Display: Capture Ending
+[2026.03.24-20.24.55:573][ 81]LogCsvProfiler: Display: Capture Ended. Writing CSV to file : ../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/Profiling/CSV/Profile(20260324_212435).csv
+[2026.03.24-20.24.55:573][ 82]LogCsvProfiler: Display:   Frames : 2038
+[2026.03.24-20.24.55:573][ 82]LogCsvProfiler: Display:   Peak memory usage  : 1.22MB
+[2026.03.24-20.24.55:573][ 82]LogCsvProfiler: Display:   CSV finalize time : 0.008 seconds
+[2026.03.24-20.24.57:646][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.24-20.24.57:646][145]LogWorld: BeginTearingDown for /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2
+[2026.03.24-20.24.57:646][145]LogWorld: UWorld::CleanupWorld for Map_Test2, bSessionEnded=true, bCleanupResources=true
+[2026.03.24-20.24.57:646][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-20.24.57:649][145]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.24-20.24.57:655][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-20.24.57:685][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.24-20.24.57:685][145]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 46
+[2026.03.24-20.24.57:685][145]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46, StreamState=4
+[2026.03.24-20.24.57:687][145]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46, StreamState=2
+[2026.03.24-20.24.57:695][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.03.24-20.24.57:771][146]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2026.03.24-20.25.12:846][314]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.03.24-20.25.12:846][314]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.03.24-20.25.19:854][784]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-20.25.19:938][784]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/0-Main/Core/Configs/DA_Config_default] ([1] browsable assets)...
+[2026.03.24-20.25.19:938][784]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Core/Configs/DA_Config_default]
+[2026.03.24-20.25.19:948][784]LogSavePackage: Moving output files for package: /Game/0-Main/Core/Configs/DA_Config_default
+[2026.03.24-20.25.19:949][784]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/DA_Config_default6E67F13242F5C320766CE3AD997BF95E.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Core/Configs/DA_Config_default.uasset'
+[2026.03.24-20.25.19:963][784]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.886 ms (total: 4.78 sec)
+[2026.03.24-20.25.20:043][784]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-20.25.20:043][784]LogContentValidation: Enabled validators:
+[2026.03.24-20.25.20:043][784]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-20.25.20:043][784]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-20.25.20:043][784]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-20.25.20:043][784]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-20.25.20:043][784]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-20.25.20:043][784]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-20.25.20:043][784]AssetCheck: /Game/0-Main/Core/Configs/DA_Config_default Validating asset
+[2026.03.24-20.25.27:968][413]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.24-20.25.27:976][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.24-20.25.28:005][413]LogPlayLevel: Creating play world package: /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2
+[2026.03.24-20.25.28:007][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001756s)
+[2026.03.24-20.25.28:007][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/0-Main/Maps/Test2/Map_Test2.Map_Test2 to /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2.Map_Test2 (0.001805s)
+[2026.03.24-20.25.28:033][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.03.24-20.25.28:035][413]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Test2
+[2026.03.24-20.25.28:038][413]LogPlayLevel: PIE: World Init took: (0.001812s)
+[2026.03.24-20.25.28:039][413]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2026.03.24-20.25.28:039][413]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.24-20.25.28:039][413]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.24-20.25.28:039][413]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.24-20.25.28:039][413]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.24-20.25.28:039][413]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.24-20.25.28:039][413]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.24-20.25.28:039][413]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.24-20.25.28:039][413]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.24-20.25.28:039][413]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.24-20.25.28:039][413]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.24-20.25.28:039][413]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.24-20.25.28:041][413]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.24-20.25.28:068][413]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.03.24-20.25.28:068][413]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.24-20.25.28:068][413]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.24-20.25.28:068][413]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.24-20.25.28:069][413]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=47
+[2026.03.24-20.25.28:069][413]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=47
+[2026.03.24-20.25.28:072][413]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=47
+[2026.03.24-20.25.28:072][413]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=47
+[2026.03.24-20.25.28:072][413]LogInit: FAudioDevice initialized with ID 47.
+[2026.03.24-20.25.28:072][413]LogAudio: Display: Audio Device (ID: 47) registered with world 'Map_Test2'.
+[2026.03.24-20.25.28:072][413]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 47
+[2026.03.24-20.25.28:077][413]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2026.03.24-20.25.28:078][413]LogWorld: Bringing World /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2.Map_Test2 up for play (max tick rate 165) at 2026.03.24-21.25.28
+[2026.03.24-20.25.28:078][413]LogWorld: Bringing up level for play took: 0.000674
+[2026.03.24-20.25.28:081][413]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2026.03.24-20.25.28:084][413]t.MaxFPS = "165"
+[2026.03.24-20.25.28:084][413]r.VSync = "0"
+[2026.03.24-20.25.28:108][413]LogBlueprintUserMessages: [BP_Test2_Controller_C_1] TEST2 STARTCatalogSize=20;CatalogRows.length=992;CriteriaCount=2;DialogOptionsCount=2;SellerGoal=0;PlayerProfile=0;
+[2026.03.24-20.25.28:109][413]PIE: Server logged in
+[2026.03.24-20.25.28:112][413]PIE: Play in editor total start time 0,136 seconds.
+[2026.03.24-20.25.28:125][414]LogCsvProfiler: Display: Capture Starting
+[2026.03.24-20.25.28:125][414]LogCsvProfiler: Display: Metadata set : csvid="4A82EC7141A41CE5B34126ACC62581E9"
+[2026.03.24-20.25.28:125][414]LogCsvProfiler: Display: Capture started. CSV ID: 4A82EC7141A41CE5B34126ACC62581E9
+[2026.03.24-20.25.28:125][414]LogCsvProfiler: Display: Metadata set : starttimestamp="1774383928"
+[2026.03.24-20.25.28:128][414]LogCsvProfiler: Csv profiler benchmark completed (10000 iterations). Time taken: 2.72ms
+[2026.03.24-20.25.28:128][414]LogCsvProfiler: Timing stat ns: 43.60ns
+[2026.03.24-20.25.28:128][414]LogCsvProfiler: Custom stat ns: 24.44ns
+[2026.03.24-20.25.28:128][414]LogCsvProfiler: Display: Metadata set : csvbench_timingstat_ns="43.600000"
+[2026.03.24-20.25.28:128][414]LogCsvProfiler: Display: Metadata set : csvbench_customstat_ns="24.435000"
+[2026.03.24-20.25.28:128][414]LogCsvProfiler: Display: Metadata set : csvbench_duration_ms="2.721800"
+[2026.03.24-20.25.28:160][414]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.24-20.25.30:945][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.24-20.25.30:946][700]LogWorld: BeginTearingDown for /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2
+[2026.03.24-20.25.30:946][700]LogWorld: UWorld::CleanupWorld for Map_Test2, bSessionEnded=true, bCleanupResources=true
+[2026.03.24-20.25.30:946][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-20.25.30:949][700]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.24-20.25.30:954][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-20.25.30:959][700]LogCsvProfiler: Display: CSVEvent "GC" [Frame 286]
+[2026.03.24-20.25.30:979][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.24-20.25.30:979][700]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 47
+[2026.03.24-20.25.30:979][700]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47, StreamState=4
+[2026.03.24-20.25.30:982][700]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47, StreamState=2
+[2026.03.24-20.25.30:991][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.03.24-20.25.31:067][701]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2026.03.24-20.27.35:511][988]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12246.790039
+[2026.03.24-20.27.36:511][991]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-20.27.36:511][991]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12247.457031, Update Interval: 328.883942
+[2026.03.24-20.29.52:842][128]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.03.24-20.29.52:842][128]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.03.24-20.29.57:663][350]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.03.24-20.29.57:678][350]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.03.24-20.29.57:693][350]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.03.24-20.29.57:715][351]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.03.24-20.30.05:102][ 10]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_OptionButton
+[2026.03.24-20.30.05:110][ 10]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.03.24-20.30.06:823][166]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/0-Main/Scenarios/Test2/WBP_OptionButton.WBP_OptionButton
+[2026.03.24-20.30.06:824][166]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.03.24-20.30.06:830][166]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.03.24-20.31.38:225][224]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18425070195556221245
+[2026.03.24-20.31.38:225][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-20.31.38:233][225]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.03.24-20.31.38:241][225]LogSlate: Took 0.000375 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.03.24-20.31.38:242][225]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.03.24-20.31.38:245][225]LogSlate: Took 0.000366 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.03.24-20.31.38:246][225]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.03.24-20.31.58:364][313]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.03.24-20.32.42:605][775]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2026.03.24-20.33.05:563][122]LogCsvProfiler: Display: CSVEvent "GC" [Frame 13708]
+[2026.03.24-20.33.05:645][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.03.24-20.33.40:798][423]LogCsvProfiler: Display: CSVEvent "GC" [Frame 16009]
+[2026.03.24-20.33.40:835][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.03.24-20.33.47:321][834]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12618.580078
+[2026.03.24-20.33.47:507][846]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-20.33.47:508][846]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12618.752930, Update Interval: 330.788300
+[2026.03.24-20.34.33:619][578]LogSlate: Window 'Details' being destroyed
+[2026.03.24-20.35.59:305][  0]LogCsvProfiler: Display: CSVEvent "GC" [Frame 24586]
+[2026.03.24-20.35.59:326][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.03.24-20.37.28:758][129]LogCsvProfiler: Display: CSVEvent "GC" [Frame 29715]
+[2026.03.24-20.37.28:842][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.03.24-20.37.29:332][145]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-20.37.29:406][145]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/0-Main/Scenarios/Test2/WBP_OptionButton] ([2] browsable assets)...
+[2026.03.24-20.37.29:411][145]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/0-Main/Scenarios/Test2/WBP_OptionButton.WBP_OptionButton]
+[2026.03.24-20.37.29:411][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Scenarios/Test2/WBP_OptionButton]
+[2026.03.24-20.37.29:423][145]LogSavePackage: Moving output files for package: /Game/0-Main/Scenarios/Test2/WBP_OptionButton
+[2026.03.24-20.37.29:424][145]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/WBP_OptionButton664EABB24C88464FC78214AF24745262.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Scenarios/Test2/WBP_OptionButton.uasset'
+[2026.03.24-20.37.29:442][145]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.716 ms (total: 4.89 sec)
+[2026.03.24-20.37.29:515][145]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-20.37.29:515][145]LogContentValidation: Enabled validators:
+[2026.03.24-20.37.29:515][145]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-20.37.29:515][145]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-20.37.29:515][145]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-20.37.29:515][145]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-20.37.29:515][145]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-20.37.29:515][145]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-20.37.29:516][145]AssetCheck: /Game/0-Main/Scenarios/Test2/WBP_OptionButton Validating asset
+[2026.03.24-20.37.29:551][145]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.24-20.37.59:438][765]LogCsvProfiler: Display: CSVEvent "GC" [Frame 31351]
+[2026.03.24-20.37.59:460][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.03.24-20.38.18:305][971]LogCsvProfiler: Display: CSVEvent "GC" [Frame 32557]
+[2026.03.24-20.38.18:328][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.03.24-20.40.12:531][831]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13003.673828
+[2026.03.24-20.40.12:710][842]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-20.40.12:711][842]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13003.836914, Update Interval: 320.239258
+[2026.03.24-20.41.21:754][ 63]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetMathLibrary::EqualEqual_IntInt' [Nie można odnaleźć elementu.]
+[2026.03.24-20.41.24:180][190]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetMathLibrary::EqualEqual_IntInt' [Nie można odnaleźć określonego modułu.]
+[2026.03.24-20.41.28:105][404]LogEditorTransaction: Undo Delete current selection
+[2026.03.24-20.42.01:457][ 89]LogCsvProfiler: Display: CSVEvent "GC" [Frame 44675]
+[2026.03.24-20.42.01:478][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.03.24-20.42.01:484][ 89]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/0-Main/Maps/Test2/Map_Test2' took 0.033
+[2026.03.24-20.42.01:485][ 89]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog] ([2] browsable assets)...
+[2026.03.24-20.42.01:493][ 89]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/0-Main/Scenarios/Test2/WBP_ShopDialog.WBP_ShopDialog]
+[2026.03.24-20.42.01:493][ 89]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog]
+[2026.03.24-20.42.01:506][ 89]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/0-Main/Scenarios/Test2/WBP_ShopDialog_Auto1
+[2026.03.24-20.42.01:506][ 89]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/WBP_ShopDialog_Auto1AD38F07E4101C812E363FD9B0468C8DE.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/Autosaves/Game/0-Main/Scenarios/Test2/WBP_ShopDialog_Auto1.uasset'
+[2026.03.24-20.42.01:508][ 89]LogFileHelpers: Auto-saving content packages took 0.024
+[2026.03.24-20.42.02:314][ 92]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.03.24-20.42.02:314][ 92]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.03.24-20.43.47:604][234]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.03.24-20.43.47:604][234]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.03.24-20.44.59:500][685]LogCsvProfiler: Display: CSVEvent "GC" [Frame 54271]
+[2026.03.24-20.44.59:561][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.03.24-20.45.59:791][103]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-20.45.59:871][103]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog] ([2] browsable assets)...
+[2026.03.24-20.45.59:875][103]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/0-Main/Scenarios/Test2/WBP_ShopDialog.WBP_ShopDialog]
+[2026.03.24-20.45.59:876][103]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog]
+[2026.03.24-20.45.59:891][103]LogSavePackage: Moving output files for package: /Game/0-Main/Scenarios/Test2/WBP_ShopDialog
+[2026.03.24-20.45.59:891][103]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/WBP_ShopDialogB3B3CBBD4A300C10ADBDF98D03187486.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Scenarios/Test2/WBP_ShopDialog.uasset'
+[2026.03.24-20.45.59:910][103]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.115 ms (total: 5.01 sec)
+[2026.03.24-20.45.59:985][103]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-20.45.59:985][103]LogContentValidation: Enabled validators:
+[2026.03.24-20.45.59:985][103]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-20.45.59:985][103]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-20.45.59:985][103]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-20.45.59:985][103]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-20.45.59:985][103]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-20.45.59:985][103]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-20.45.59:986][103]AssetCheck: /Game/0-Main/Scenarios/Test2/WBP_ShopDialog Validating asset
+[2026.03.24-20.46.28:927][666]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13380.103516
+[2026.03.24-20.46.29:128][678]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-20.46.29:129][678]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13380.288086, Update Interval: 356.993317
+[2026.03.24-20.46.32:038][847]LogEditorTransaction: Undo Add Execution Pin
+[2026.03.24-20.47.14:154][370]LogEditorTransaction: Undo Add Out Parameter
+[2026.03.24-20.50.00:812][434]LogCsvProfiler: Display: CSVEvent "GC" [Frame 71020]
+[2026.03.24-20.50.00:836][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.03.24-20.50.01:500][465]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-20.50.01:582][465]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog] ([2] browsable assets)...
+[2026.03.24-20.50.01:586][465]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/0-Main/Scenarios/Test2/WBP_ShopDialog.WBP_ShopDialog]
+[2026.03.24-20.50.01:586][465]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog]
+[2026.03.24-20.50.01:605][465]LogSavePackage: Moving output files for package: /Game/0-Main/Scenarios/Test2/WBP_ShopDialog
+[2026.03.24-20.50.01:605][465]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/WBP_ShopDialogA8AD757045A01CC15641B08FA2813B18.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Scenarios/Test2/WBP_ShopDialog.uasset'
+[2026.03.24-20.50.01:623][465]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.022 ms (total: 5.13 sec)
+[2026.03.24-20.50.01:703][465]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-20.50.01:703][465]LogContentValidation: Enabled validators:
+[2026.03.24-20.50.01:703][465]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-20.50.01:703][465]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-20.50.01:703][465]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-20.50.01:703][465]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-20.50.01:703][465]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-20.50.01:703][465]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-20.50.01:704][465]AssetCheck: /Game/0-Main/Scenarios/Test2/WBP_ShopDialog Validating asset
+[2026.03.24-20.50.15:348][235]LogCsvProfiler: Display: CSVEvent "GC" [Frame 71821]
+[2026.03.24-20.50.15:371][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.03.24-20.50.15:778][251]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-20.50.15:854][251]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog] ([2] browsable assets)...
+[2026.03.24-20.50.15:857][251]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/0-Main/Scenarios/Test2/WBP_ShopDialog.WBP_ShopDialog]
+[2026.03.24-20.50.15:857][251]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog]
+[2026.03.24-20.50.15:873][251]LogSavePackage: Moving output files for package: /Game/0-Main/Scenarios/Test2/WBP_ShopDialog
+[2026.03.24-20.50.15:874][251]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/WBP_ShopDialog8149DE9B414950B08988B58EFC316C47.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Scenarios/Test2/WBP_ShopDialog.uasset'
+[2026.03.24-20.50.15:892][251]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.768 ms (total: 5.24 sec)
+[2026.03.24-20.50.15:975][251]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-20.50.15:975][251]LogContentValidation: Enabled validators:
+[2026.03.24-20.50.15:975][251]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-20.50.15:975][251]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-20.50.15:975][251]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-20.50.15:975][251]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-20.50.15:975][251]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-20.50.15:975][251]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-20.50.15:976][251]AssetCheck: /Game/0-Main/Scenarios/Test2/WBP_ShopDialog Validating asset
+[2026.03.24-20.51.55:149][315]LogCsvProfiler: Display: CSVEvent "GC" [Frame 77901]
+[2026.03.24-20.51.55:173][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.03.24-20.52.37:426][857]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.03.24-20.52.37:426][857]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.03.24-20.52.40:385][ 12]LogEditorTransaction: Undo Change Parameter Type
+[2026.03.24-20.52.40:802][ 19]LogEditorTransaction: Undo Rename Parameter
+[2026.03.24-20.52.41:122][ 36]LogEditorTransaction: Undo Add In Parameter
+[2026.03.24-20.52.41:448][ 57]LogEditorTransaction: Undo Rename Function
+[2026.03.24-20.52.42:115][ 94]LogCsvProfiler: Display: CSVEvent "GC" [Frame 79680]
+[2026.03.24-20.52.42:133][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.03.24-20.52.42:139][ 94]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/0-Main/Maps/Test2/Map_Test2' took 0.029
+[2026.03.24-20.52.42:139][ 94]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog] ([2] browsable assets)...
+[2026.03.24-20.52.42:142][ 94]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/0-Main/Scenarios/Test2/WBP_ShopDialog.WBP_ShopDialog]
+[2026.03.24-20.52.42:142][ 94]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog]
+[2026.03.24-20.52.42:159][ 94]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/0-Main/Scenarios/Test2/WBP_ShopDialog_Auto2
+[2026.03.24-20.52.42:159][ 94]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/WBP_ShopDialog_Auto28CB04765477DCEDAA7A447B6D3A63071.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/Autosaves/Game/0-Main/Scenarios/Test2/WBP_ShopDialog_Auto2.uasset'
+[2026.03.24-20.52.42:160][ 94]LogFileHelpers: Auto-saving content packages took 0.021
+[2026.03.24-20.52.42:704][129]Cmd: TRANSACTION UNDO
+[2026.03.24-20.52.42:704][129]LogEditorTransaction: Undo Add New Function
+[2026.03.24-20.52.57:838][650]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13768.994141
+[2026.03.24-20.52.58:840][652]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-20.52.58:840][653]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13769.662109, Update Interval: 320.686066
+[2026.03.24-20.53.53:913][ 29]LogCsvProfiler: Display: CSVEvent "GC" [Frame 80615]
+[2026.03.24-20.53.53:936][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.03.24-20.53.58:759][271]LogCsvProfiler: Display: CSVEvent "GC" [Frame 80857]
+[2026.03.24-20.53.58:800][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.03.24-20.53.59:284][286]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-20.53.59:375][286]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog] ([2] browsable assets)...
+[2026.03.24-20.53.59:379][286]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/0-Main/Scenarios/Test2/WBP_ShopDialog.WBP_ShopDialog]
+[2026.03.24-20.53.59:379][286]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog]
+[2026.03.24-20.53.59:396][286]LogSavePackage: Moving output files for package: /Game/0-Main/Scenarios/Test2/WBP_ShopDialog
+[2026.03.24-20.53.59:396][286]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/WBP_ShopDialog4A39BBC24B91EA4E094DEDAB24477B52.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Scenarios/Test2/WBP_ShopDialog.uasset'
+[2026.03.24-20.53.59:411][286]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.766 ms (total: 5.37 sec)
+[2026.03.24-20.53.59:478][286]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-20.53.59:478][286]LogContentValidation: Enabled validators:
+[2026.03.24-20.53.59:478][286]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-20.53.59:478][286]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-20.53.59:478][286]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-20.53.59:478][286]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-20.53.59:478][286]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-20.53.59:478][286]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-20.53.59:479][286]AssetCheck: /Game/0-Main/Scenarios/Test2/WBP_ShopDialog Validating asset
+[2026.03.24-20.54.27:894][882]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.03.24-20.54.27:894][882]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.03.24-20.55.54:849][512]LogCsvProfiler: Display: CSVEvent "GC" [Frame 88098]
+[2026.03.24-20.55.54:890][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.03.24-20.55.55:614][552]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-20.55.55:697][552]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog] ([2] browsable assets)...
+[2026.03.24-20.55.55:701][552]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/0-Main/Scenarios/Test2/WBP_ShopDialog.WBP_ShopDialog]
+[2026.03.24-20.55.55:701][552]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog]
+[2026.03.24-20.55.55:721][552]LogSavePackage: Moving output files for package: /Game/0-Main/Scenarios/Test2/WBP_ShopDialog
+[2026.03.24-20.55.55:721][552]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/WBP_ShopDialog019786B74AF90C53DFCFDE961D839E01.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Scenarios/Test2/WBP_ShopDialog.uasset'
+[2026.03.24-20.55.55:736][552]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.839 ms (total: 5.49 sec)
+[2026.03.24-20.55.55:825][552]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-20.55.55:825][552]LogContentValidation: Enabled validators:
+[2026.03.24-20.55.55:825][552]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-20.55.55:825][552]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-20.55.55:825][552]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-20.55.55:825][552]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-20.55.55:825][552]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-20.55.55:825][552]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-20.55.55:826][552]AssetCheck: /Game/0-Main/Scenarios/Test2/WBP_ShopDialog Validating asset
+[2026.03.24-20.56.10:209][452]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.03.24-20.56.10:209][452]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.03.24-20.56.10:624][478]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.03.24-20.56.10:624][478]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.03.24-20.59.04:832][952]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14135.981445
+[2026.03.24-20.59.05:046][963]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-20.59.05:046][963]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14136.174805, Update Interval: 359.739990
+[2026.03.24-20.59.29:660][419]LogCsvProfiler: Display: CSVEvent "GC" [Frame 101005]
+[2026.03.24-20.59.29:686][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.03.24-20.59.30:338][455]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-20.59.30:407][455]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog] ([2] browsable assets)...
+[2026.03.24-20.59.30:410][455]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/0-Main/Scenarios/Test2/WBP_ShopDialog.WBP_ShopDialog]
+[2026.03.24-20.59.30:410][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog]
+[2026.03.24-20.59.30:429][455]LogSavePackage: Moving output files for package: /Game/0-Main/Scenarios/Test2/WBP_ShopDialog
+[2026.03.24-20.59.30:429][455]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/WBP_ShopDialog07EF8DAB4EE269EB3953FC85A90733ED.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Scenarios/Test2/WBP_ShopDialog.uasset'
+[2026.03.24-20.59.30:445][455]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.728 ms (total: 5.60 sec)
+[2026.03.24-20.59.30:552][455]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-20.59.30:552][455]LogContentValidation: Enabled validators:
+[2026.03.24-20.59.30:552][455]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-20.59.30:552][455]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-20.59.30:552][455]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-20.59.30:552][455]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-20.59.30:552][455]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-20.59.30:552][455]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-20.59.30:553][455]AssetCheck: /Game/0-Main/Scenarios/Test2/WBP_ShopDialog Validating asset
+[2026.03.24-20.59.33:533][646]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.24-20.59.33:544][646]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.24-20.59.33:544][646]LogPlayLevel: Creating play world package: /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2
+[2026.03.24-20.59.33:547][646]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002091s)
+[2026.03.24-20.59.33:547][646]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/0-Main/Maps/Test2/Map_Test2.Map_Test2 to /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2.Map_Test2 (0.002159s)
+[2026.03.24-20.59.33:552][646]LogCsvProfiler: Display: CSVEvent "GC" [Frame 101232]
+[2026.03.24-20.59.33:581][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.03.24-20.59.33:586][646]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Test2
+[2026.03.24-20.59.33:589][646]LogPlayLevel: PIE: World Init took: (0.002190s)
+[2026.03.24-20.59.33:589][646]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2026.03.24-20.59.33:590][646]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.24-20.59.33:590][646]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.24-20.59.33:590][646]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.24-20.59.33:590][646]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.24-20.59.33:590][646]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.24-20.59.33:590][646]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.24-20.59.33:590][646]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.24-20.59.33:590][646]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.24-20.59.33:590][646]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.24-20.59.33:590][646]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.24-20.59.33:590][646]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.24-20.59.33:592][646]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.24-20.59.33:636][646]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.03.24-20.59.33:636][646]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.24-20.59.33:636][646]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.24-20.59.33:636][646]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.24-20.59.33:636][646]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2026.03.24-20.59.33:637][646]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=48
+[2026.03.24-20.59.33:640][646]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2026.03.24-20.59.33:640][646]LogInit: FAudioDevice initialized with ID 48.
+[2026.03.24-20.59.33:640][646]LogAudio: Display: Audio Device (ID: 48) registered with world 'Map_Test2'.
+[2026.03.24-20.59.33:640][646]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=48
+[2026.03.24-20.59.33:640][646]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 48
+[2026.03.24-20.59.33:646][646]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2026.03.24-20.59.33:648][646]LogWorld: Bringing World /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2.Map_Test2 up for play (max tick rate 165) at 2026.03.24-21.59.33
+[2026.03.24-20.59.33:648][646]LogWorld: Bringing up level for play took: 0.000900
+[2026.03.24-20.59.33:651][646]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2026.03.24-20.59.33:656][646]LogCsvProfiler: Display: CSVEvent "Cmd: t.MaxFPS 165" [Frame 101232]
+[2026.03.24-20.59.33:656][646]t.MaxFPS = "165"
+[2026.03.24-20.59.33:656][646]LogCsvProfiler: Display: CSVEvent "Cmd: r.VSync 0" [Frame 101232]
+[2026.03.24-20.59.33:656][646]r.VSync = "0"
+[2026.03.24-20.59.33:656][646]LogCsvProfiler: Display: CSVEvent "Cmd: csvprofile start" [Frame 101232]
+[2026.03.24-20.59.33:686][646]LogBlueprintUserMessages: [BP_Test2_Controller_C_1] TEST2 STARTCatalogSize=20;CatalogRows.length=992;CriteriaCount=2;DialogOptionsCount=2;SellerGoal=0;PlayerProfile=0;
+[2026.03.24-20.59.33:689][646]PIE: Server logged in
+[2026.03.24-20.59.33:694][646]PIE: Play in editor total start time 0,15 seconds.
+[2026.03.24-20.59.33:729][647]LogCsvProfiler: Warning: Capture start requested, but a capture was already running
+[2026.03.24-20.59.33:751][647]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.24-20.59.38:542][111]LogCsvProfiler: Display: CSVEvent "Cmd: csvprofile stop" [Frame 101697]
+[2026.03.24-20.59.38:542][111]LogCsvProfiler: Display: Metadata set : endtimestamp="1774385978"
+[2026.03.24-20.59.38:542][111]LogCsvProfiler: Display: Metadata set : captureduration="2050.416414"
+[2026.03.24-20.59.38:542][111]LogBlueprintUserMessages: [BP_TestManager_C_1] RUN_END;RunIDjScenario;MapMap_Test2;Tmax5.0;FPSavg100.249297;FPSmin5.095723;FPSmax121.98246;FRAMEavg0.010766;FRAMEmin0.008198;FRAMEmax0.196243;
+[2026.03.24-20.59.38:558][112]LogCsvProfiler: Display: Capture Stop requested
+[2026.03.24-20.59.38:558][112]LogStreaming: Display: Dumping async load requests & callstacks to ../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/Profiling/AsyncLoadRequests_2026.03.24-21.59.38.log
+[2026.03.24-20.59.38:606][112]LogCsvProfiler: Display: Capture Ending
+[2026.03.24-20.59.38:616][112]LogCsvProfiler: Display: Capture Ended. Writing CSV to file : ../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/Profiling/CSV/Profile(20260324_212528).csv
+[2026.03.24-20.59.38:616][113]LogCsvProfiler: Display:   Frames : 101698
+[2026.03.24-20.59.38:616][113]LogCsvProfiler: Display:   Peak memory usage  : 1.27MB
+[2026.03.24-20.59.38:616][113]LogCsvProfiler: Display:   CSV finalize time : 0.010 seconds
+[2026.03.24-20.59.39:654][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.24-20.59.39:654][215]LogWorld: BeginTearingDown for /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2
+[2026.03.24-20.59.39:654][215]LogWorld: UWorld::CleanupWorld for Map_Test2, bSessionEnded=true, bCleanupResources=true
+[2026.03.24-20.59.39:655][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-20.59.39:658][215]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.24-20.59.39:663][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-20.59.39:687][215]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.24-20.59.39:687][215]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 48
+[2026.03.24-20.59.39:687][215]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48, StreamState=4
+[2026.03.24-20.59.39:689][215]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48, StreamState=2
+[2026.03.24-20.59.39:695][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.24-20.59.39:698][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.03.24-20.59.39:767][216]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2026.03.24-21.00.04:248][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.03.24-21.00.04:805][674]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-21.00.04:879][674]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog] ([2] browsable assets)...
+[2026.03.24-21.00.04:883][674]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/0-Main/Scenarios/Test2/WBP_ShopDialog.WBP_ShopDialog]
+[2026.03.24-21.00.04:883][674]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog]
+[2026.03.24-21.00.04:902][674]LogSavePackage: Moving output files for package: /Game/0-Main/Scenarios/Test2/WBP_ShopDialog
+[2026.03.24-21.00.04:903][674]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/WBP_ShopDialog111FCF944CF92F878AF568857DB7E20C.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Scenarios/Test2/WBP_ShopDialog.uasset'
+[2026.03.24-21.00.04:918][674]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.130 ms (total: 5.71 sec)
+[2026.03.24-21.00.04:992][674]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-21.00.04:992][674]LogContentValidation: Enabled validators:
+[2026.03.24-21.00.04:992][674]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-21.00.04:992][674]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-21.00.04:992][674]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-21.00.04:992][674]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-21.00.04:992][674]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-21.00.04:992][674]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-21.00.04:992][674]AssetCheck: /Game/0-Main/Scenarios/Test2/WBP_ShopDialog Validating asset
+[2026.03.24-21.00.06:479][774]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.24-21.00.06:487][774]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.24-21.00.06:487][774]LogPlayLevel: Creating play world package: /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2
+[2026.03.24-21.00.06:489][774]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001790s)
+[2026.03.24-21.00.06:489][774]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/0-Main/Maps/Test2/Map_Test2.Map_Test2 to /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2.Map_Test2 (0.001827s)
+[2026.03.24-21.00.06:517][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.03.24-21.00.06:520][774]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Test2
+[2026.03.24-21.00.06:523][774]LogPlayLevel: PIE: World Init took: (0.001705s)
+[2026.03.24-21.00.06:524][774]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2026.03.24-21.00.06:524][774]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.24-21.00.06:524][774]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.24-21.00.06:524][774]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.24-21.00.06:524][774]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.24-21.00.06:524][774]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.24-21.00.06:524][774]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.24-21.00.06:524][774]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.24-21.00.06:524][774]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.24-21.00.06:524][774]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.24-21.00.06:524][774]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.24-21.00.06:524][774]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.24-21.00.06:526][774]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.24-21.00.06:557][774]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.03.24-21.00.06:557][774]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.24-21.00.06:557][774]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.24-21.00.06:557][774]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.24-21.00.06:557][774]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=49
+[2026.03.24-21.00.06:557][774]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=49
+[2026.03.24-21.00.06:560][774]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=49
+[2026.03.24-21.00.06:560][774]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=49
+[2026.03.24-21.00.06:560][774]LogInit: FAudioDevice initialized with ID 49.
+[2026.03.24-21.00.06:560][774]LogAudio: Display: Audio Device (ID: 49) registered with world 'Map_Test2'.
+[2026.03.24-21.00.06:560][774]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 49
+[2026.03.24-21.00.06:564][774]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2026.03.24-21.00.06:565][774]LogWorld: Bringing World /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2.Map_Test2 up for play (max tick rate 165) at 2026.03.24-22.00.06
+[2026.03.24-21.00.06:566][774]LogWorld: Bringing up level for play took: 0.000786
+[2026.03.24-21.00.06:568][774]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2026.03.24-21.00.06:572][774]t.MaxFPS = "165"
+[2026.03.24-21.00.06:572][774]r.VSync = "0"
+[2026.03.24-21.00.06:596][774]LogBlueprintUserMessages: [BP_Test2_Controller_C_1] TEST2 STARTCatalogSize=20;CatalogRows.length=992;CriteriaCount=2;DialogOptionsCount=2;SellerGoal=0;PlayerProfile=0;
+[2026.03.24-21.00.06:597][774]PIE: Server logged in
+[2026.03.24-21.00.06:600][774]PIE: Play in editor total start time 0,113 seconds.
+[2026.03.24-21.00.06:618][775]LogCsvProfiler: Display: Capture Starting
+[2026.03.24-21.00.06:619][775]LogCsvProfiler: Display: Metadata set : csvid="FD7DFC004D5F4E3DA85658BEBA3C03CA"
+[2026.03.24-21.00.06:619][775]LogCsvProfiler: Display: Capture started. CSV ID: FD7DFC004D5F4E3DA85658BEBA3C03CA
+[2026.03.24-21.00.06:619][775]LogCsvProfiler: Display: Metadata set : starttimestamp="1774386006"
+[2026.03.24-21.00.06:621][775]LogCsvProfiler: Csv profiler benchmark completed (10000 iterations). Time taken: 2.66ms
+[2026.03.24-21.00.06:621][775]LogCsvProfiler: Timing stat ns: 42.49ns
+[2026.03.24-21.00.06:621][775]LogCsvProfiler: Custom stat ns: 24.09ns
+[2026.03.24-21.00.06:621][775]LogCsvProfiler: Display: Metadata set : csvbench_timingstat_ns="42.487500"
+[2026.03.24-21.00.06:621][775]LogCsvProfiler: Display: Metadata set : csvbench_customstat_ns="24.090000"
+[2026.03.24-21.00.06:621][775]LogCsvProfiler: Display: Metadata set : csvbench_duration_ms="2.663500"
+[2026.03.24-21.00.06:651][775]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.24-21.00.11:482][251]LogCsvProfiler: Display: CSVEvent "Cmd: csvprofile stop" [Frame 476]
+[2026.03.24-21.00.11:482][251]LogCsvProfiler: Display: Metadata set : endtimestamp="1774386011"
+[2026.03.24-21.00.11:482][251]LogCsvProfiler: Display: Metadata set : captureduration="4.863447"
+[2026.03.24-21.00.11:482][251]LogBlueprintUserMessages: [BP_TestManager_C_1] RUN_END;RunIDjScenario;MapMap_Test2;Tmax5.0;FPSavg100.441609;FPSmin7.01554;FPSmax120.49065;FRAMEavg0.01048;FRAMEmin0.008299;FRAMEmax0.142541;
+[2026.03.24-21.00.11:501][252]LogCsvProfiler: Display: Capture Stop requested
+[2026.03.24-21.00.11:501][252]LogStreaming: Display: Dumping async load requests & callstacks to ../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/Profiling/AsyncLoadRequests_2026.03.24-22.00.11.log
+[2026.03.24-21.00.11:549][252]LogCsvProfiler: Display: Capture Ending
+[2026.03.24-21.00.11:558][252]LogCsvProfiler: Display: Capture Ended. Writing CSV to file : ../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/Profiling/CSV/Profile(20260324_220006).csv
+[2026.03.24-21.00.11:558][253]LogCsvProfiler: Display:   Frames : 477
+[2026.03.24-21.00.11:558][253]LogCsvProfiler: Display:   Peak memory usage  : 1.15MB
+[2026.03.24-21.00.11:558][253]LogCsvProfiler: Display:   CSV finalize time : 0.008 seconds
+[2026.03.24-21.00.19:975][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.24-21.00.19:975][ 29]LogWorld: BeginTearingDown for /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2
+[2026.03.24-21.00.19:976][ 29]LogWorld: UWorld::CleanupWorld for Map_Test2, bSessionEnded=true, bCleanupResources=true
+[2026.03.24-21.00.19:976][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-21.00.19:982][ 29]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.24-21.00.19:988][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-21.00.20:015][ 29]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.24-21.00.20:015][ 29]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 49
+[2026.03.24-21.00.20:015][ 29]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49, StreamState=4
+[2026.03.24-21.00.20:018][ 29]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49, StreamState=2
+[2026.03.24-21.00.20:024][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.24-21.00.20:027][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.03.24-21.00.20:116][ 30]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2026.03.24-21.00.32:712][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.03.24-21.00.33:317][702]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-21.00.33:386][702]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog] ([2] browsable assets)...
+[2026.03.24-21.00.33:390][702]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/0-Main/Scenarios/Test2/WBP_ShopDialog.WBP_ShopDialog]
+[2026.03.24-21.00.33:390][702]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog]
+[2026.03.24-21.00.33:409][702]LogSavePackage: Moving output files for package: /Game/0-Main/Scenarios/Test2/WBP_ShopDialog
+[2026.03.24-21.00.33:409][702]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/WBP_ShopDialog3AF9D2E5405866E18A09A8ADB406E52A.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Scenarios/Test2/WBP_ShopDialog.uasset'
+[2026.03.24-21.00.33:423][702]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.352 ms (total: 5.82 sec)
+[2026.03.24-21.00.33:494][702]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-21.00.33:495][702]LogContentValidation: Enabled validators:
+[2026.03.24-21.00.33:495][702]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-21.00.33:495][702]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-21.00.33:495][702]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-21.00.33:495][702]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-21.00.33:495][702]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-21.00.33:495][702]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-21.00.33:495][702]AssetCheck: /Game/0-Main/Scenarios/Test2/WBP_ShopDialog Validating asset
+[2026.03.24-21.00.35:123][824]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.24-21.00.35:132][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.24-21.00.35:154][824]LogPlayLevel: Creating play world package: /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2
+[2026.03.24-21.00.35:155][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001802s)
+[2026.03.24-21.00.35:155][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/0-Main/Maps/Test2/Map_Test2.Map_Test2 to /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2.Map_Test2 (0.001855s)
+[2026.03.24-21.00.35:180][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.03.24-21.00.35:185][824]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Test2
+[2026.03.24-21.00.35:187][824]LogPlayLevel: PIE: World Init took: (0.001679s)
+[2026.03.24-21.00.35:188][824]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2026.03.24-21.00.35:188][824]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.24-21.00.35:188][824]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.24-21.00.35:188][824]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.24-21.00.35:188][824]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.24-21.00.35:188][824]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.24-21.00.35:188][824]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.24-21.00.35:188][824]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.24-21.00.35:188][824]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.24-21.00.35:188][824]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.24-21.00.35:188][824]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.24-21.00.35:188][824]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.24-21.00.35:190][824]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.24-21.00.35:221][824]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.03.24-21.00.35:221][824]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.24-21.00.35:221][824]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.24-21.00.35:221][824]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.24-21.00.35:221][824]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=50
+[2026.03.24-21.00.35:221][824]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=50
+[2026.03.24-21.00.35:224][824]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=50
+[2026.03.24-21.00.35:224][824]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=50
+[2026.03.24-21.00.35:224][824]LogInit: FAudioDevice initialized with ID 50.
+[2026.03.24-21.00.35:224][824]LogAudio: Display: Audio Device (ID: 50) registered with world 'Map_Test2'.
+[2026.03.24-21.00.35:224][824]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 50
+[2026.03.24-21.00.35:229][824]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2026.03.24-21.00.35:230][824]LogWorld: Bringing World /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2.Map_Test2 up for play (max tick rate 165) at 2026.03.24-22.00.35
+[2026.03.24-21.00.35:230][824]LogWorld: Bringing up level for play took: 0.000690
+[2026.03.24-21.00.35:232][824]LogOnline: OSS: Created online subsystem instance for: :Context_67
+[2026.03.24-21.00.35:236][824]t.MaxFPS = "165"
+[2026.03.24-21.00.35:236][824]r.VSync = "0"
+[2026.03.24-21.00.35:259][824]LogBlueprintUserMessages: [BP_Test2_Controller_C_1] TEST2 STARTCatalogSize=20;CatalogRows.length=992;CriteriaCount=2;DialogOptionsCount=2;SellerGoal=0;PlayerProfile=0;
+[2026.03.24-21.00.35:262][824]PIE: Server logged in
+[2026.03.24-21.00.35:264][824]PIE: Play in editor total start time 0,132 seconds.
+[2026.03.24-21.00.35:279][825]LogCsvProfiler: Display: Capture Starting
+[2026.03.24-21.00.35:279][825]LogCsvProfiler: Display: Metadata set : csvid="B2D53D9D404943A17C02749EE6704405"
+[2026.03.24-21.00.35:279][825]LogCsvProfiler: Display: Capture started. CSV ID: B2D53D9D404943A17C02749EE6704405
+[2026.03.24-21.00.35:279][825]LogCsvProfiler: Display: Metadata set : starttimestamp="1774386035"
+[2026.03.24-21.00.35:283][825]LogCsvProfiler: Csv profiler benchmark completed (10000 iterations). Time taken: 2.84ms
+[2026.03.24-21.00.35:283][825]LogCsvProfiler: Timing stat ns: 46.58ns
+[2026.03.24-21.00.35:283][825]LogCsvProfiler: Custom stat ns: 24.37ns
+[2026.03.24-21.00.35:283][825]LogCsvProfiler: Display: Metadata set : csvbench_timingstat_ns="46.577500"
+[2026.03.24-21.00.35:283][825]LogCsvProfiler: Display: Metadata set : csvbench_customstat_ns="24.372500"
+[2026.03.24-21.00.35:283][825]LogCsvProfiler: Display: Metadata set : csvbench_duration_ms="2.838300"
+[2026.03.24-21.00.35:313][825]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.24-21.00.40:133][305]LogCsvProfiler: Display: CSVEvent "Cmd: csvprofile stop" [Frame 480]
+[2026.03.24-21.00.40:134][305]LogCsvProfiler: Display: Metadata set : endtimestamp="1774386040"
+[2026.03.24-21.00.40:134][305]LogCsvProfiler: Display: Metadata set : captureduration="4.85305"
+[2026.03.24-21.00.40:134][305]LogBlueprintUserMessages: [BP_TestManager_C_1] RUN_END;RunIDjScenario;MapMap_Test2;Tmax5.0;FPSavg101.466357;FPSmin6.234896;FPSmax128.483509;FRAMEavg0.01041;FRAMEmin0.007783;FRAMEmax0.160388;
+[2026.03.24-21.00.40:149][306]LogCsvProfiler: Display: Capture Stop requested
+[2026.03.24-21.00.40:149][306]LogStreaming: Display: Dumping async load requests & callstacks to ../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/Profiling/AsyncLoadRequests_2026.03.24-22.00.40.log
+[2026.03.24-21.00.40:188][306]LogCsvProfiler: Display: Capture Ending
+[2026.03.24-21.00.40:197][306]LogCsvProfiler: Display: Capture Ended. Writing CSV to file : ../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/Profiling/CSV/Profile(20260324_220035).csv
+[2026.03.24-21.00.40:197][307]LogCsvProfiler: Display:   Frames : 481
+[2026.03.24-21.00.40:197][307]LogCsvProfiler: Display:   Peak memory usage  : 1.19MB
+[2026.03.24-21.00.40:197][307]LogCsvProfiler: Display:   CSV finalize time : 0.009 seconds
+[2026.03.24-21.00.51:209][275]Cmd: SELECT NONE
+[2026.03.24-21.00.53:173][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.24-21.00.53:174][471]LogWorld: BeginTearingDown for /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2
+[2026.03.24-21.00.53:174][471]LogWorld: UWorld::CleanupWorld for Map_Test2, bSessionEnded=true, bCleanupResources=true
+[2026.03.24-21.00.53:174][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-21.00.53:180][471]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.24-21.00.53:186][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-21.00.53:213][471]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.24-21.00.53:213][471]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 50
+[2026.03.24-21.00.53:213][471]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50, StreamState=4
+[2026.03.24-21.00.53:215][471]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50, StreamState=2
+[2026.03.24-21.00.53:221][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.24-21.00.53:222][471]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.03.24-21.00.53:299][472]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2026.03.24-21.00.55:021][630]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.24-21.00.55:030][630]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.24-21.00.55:063][630]LogPlayLevel: Creating play world package: /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2
+[2026.03.24-21.00.55:065][630]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001739s)
+[2026.03.24-21.00.55:065][630]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/0-Main/Maps/Test2/Map_Test2.Map_Test2 to /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2.Map_Test2 (0.001782s)
+[2026.03.24-21.00.55:087][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.03.24-21.00.55:090][630]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Test2
+[2026.03.24-21.00.55:092][630]LogPlayLevel: PIE: World Init took: (0.001731s)
+[2026.03.24-21.00.55:093][630]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2026.03.24-21.00.55:093][630]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.24-21.00.55:093][630]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.24-21.00.55:093][630]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.24-21.00.55:093][630]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.24-21.00.55:093][630]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.24-21.00.55:093][630]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.24-21.00.55:093][630]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.24-21.00.55:093][630]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.24-21.00.55:093][630]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.24-21.00.55:093][630]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.24-21.00.55:093][630]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.24-21.00.55:095][630]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.24-21.00.55:125][630]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.03.24-21.00.55:125][630]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.24-21.00.55:125][630]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.24-21.00.55:125][630]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.24-21.00.55:126][630]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=51
+[2026.03.24-21.00.55:126][630]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=51
+[2026.03.24-21.00.55:128][630]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=51
+[2026.03.24-21.00.55:128][630]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=51
+[2026.03.24-21.00.55:128][630]LogInit: FAudioDevice initialized with ID 51.
+[2026.03.24-21.00.55:128][630]LogAudio: Display: Audio Device (ID: 51) registered with world 'Map_Test2'.
+[2026.03.24-21.00.55:128][630]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 51
+[2026.03.24-21.00.55:140][630]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2026.03.24-21.00.55:141][630]LogWorld: Bringing World /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2.Map_Test2 up for play (max tick rate 165) at 2026.03.24-22.00.55
+[2026.03.24-21.00.55:141][630]LogWorld: Bringing up level for play took: 0.000662
+[2026.03.24-21.00.55:144][630]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2026.03.24-21.00.55:148][630]t.MaxFPS = "165"
+[2026.03.24-21.00.55:148][630]r.VSync = "0"
+[2026.03.24-21.00.55:171][630]LogBlueprintUserMessages: [BP_Test2_Controller_C_1] TEST2 STARTCatalogSize=20;CatalogRows.length=992;CriteriaCount=2;DialogOptionsCount=2;SellerGoal=0;PlayerProfile=0;
+[2026.03.24-21.00.55:172][630]PIE: Server logged in
+[2026.03.24-21.00.55:175][630]PIE: Play in editor total start time 0,145 seconds.
+[2026.03.24-21.00.55:189][631]LogCsvProfiler: Display: Capture Starting
+[2026.03.24-21.00.55:190][631]LogCsvProfiler: Display: Metadata set : csvid="F03861AB4D7335E450F2C89C165A38FD"
+[2026.03.24-21.00.55:190][631]LogCsvProfiler: Display: Capture started. CSV ID: F03861AB4D7335E450F2C89C165A38FD
+[2026.03.24-21.00.55:190][631]LogCsvProfiler: Display: Metadata set : starttimestamp="1774386055"
+[2026.03.24-21.00.55:192][631]LogCsvProfiler: Csv profiler benchmark completed (10000 iterations). Time taken: 3.03ms
+[2026.03.24-21.00.55:192][631]LogCsvProfiler: Timing stat ns: 49.21ns
+[2026.03.24-21.00.55:192][631]LogCsvProfiler: Custom stat ns: 26.63ns
+[2026.03.24-21.00.55:192][631]LogCsvProfiler: Display: Metadata set : csvbench_timingstat_ns="49.207500"
+[2026.03.24-21.00.55:192][631]LogCsvProfiler: Display: Metadata set : csvbench_customstat_ns="26.630000"
+[2026.03.24-21.00.55:192][631]LogCsvProfiler: Display: Metadata set : csvbench_duration_ms="3.033800"
+[2026.03.24-21.00.55:238][631]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.24-21.01.00:032][812]LogCsvProfiler: Display: CSVEvent "Cmd: csvprofile stop" [Frame 181]
+[2026.03.24-21.01.00:032][812]LogCsvProfiler: Display: Metadata set : endtimestamp="1774386060"
+[2026.03.24-21.01.00:032][812]LogCsvProfiler: Display: Metadata set : captureduration="4.842325"
+[2026.03.24-21.01.00:033][812]LogBlueprintUserMessages: [BP_TestManager_C_1] RUN_END;RunIDjScenario;MapMap_Test2;Tmax5.0;FPSavg85.220309;FPSmin2.999101;FPSmax121.30768;FRAMEavg0.027434;FRAMEmin0.008244;FRAMEmax0.333433;
+[2026.03.24-21.01.00:054][813]LogCsvProfiler: Display: Capture Stop requested
+[2026.03.24-21.01.00:054][813]LogStreaming: Display: Dumping async load requests & callstacks to ../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/Profiling/AsyncLoadRequests_2026.03.24-22.01.00.log
+[2026.03.24-21.01.00:097][813]LogCsvProfiler: Display: Capture Ending
+[2026.03.24-21.01.00:104][813]LogCsvProfiler: Display: Capture Ended. Writing CSV to file : ../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/Profiling/CSV/Profile(20260324_220055).csv
+[2026.03.24-21.01.00:104][814]LogCsvProfiler: Display:   Frames : 182
+[2026.03.24-21.01.00:104][814]LogCsvProfiler: Display:   Peak memory usage  : 1.15MB
+[2026.03.24-21.01.00:104][814]LogCsvProfiler: Display:   CSV finalize time : 0.008 seconds
+[2026.03.24-21.01.06:564][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.24-21.01.06:565][868]LogWorld: BeginTearingDown for /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2
+[2026.03.24-21.01.06:565][868]LogWorld: UWorld::CleanupWorld for Map_Test2, bSessionEnded=true, bCleanupResources=true
+[2026.03.24-21.01.06:565][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-21.01.06:568][868]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.24-21.01.06:573][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-21.01.06:600][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.24-21.01.06:600][868]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 51
+[2026.03.24-21.01.06:601][868]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51, StreamState=4
+[2026.03.24-21.01.06:602][868]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51, StreamState=2
+[2026.03.24-21.01.06:612][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.03.24-21.01.06:684][869]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2026.03.24-21.02.19:058][ 68]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.03.24-21.02.19:058][ 68]LogWindowsTextInputMethodSystem: Activated input method: Rosyjski (Rosja) - (Keyboard).
+[2026.03.24-21.03.31:333][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.03.24-21.03.31:338][544]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/0-Main/Maps/Test2/Map_Test2' took 0.045
+[2026.03.24-21.03.31:339][544]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog] ([2] browsable assets)...
+[2026.03.24-21.03.31:339][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog]
+[2026.03.24-21.03.31:358][544]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/0-Main/Scenarios/Test2/WBP_ShopDialog_Auto3
+[2026.03.24-21.03.31:358][544]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/WBP_ShopDialog_Auto3AAA3486B43BEB84075E0289BAA239B6E.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/Autosaves/Game/0-Main/Scenarios/Test2/WBP_ShopDialog_Auto3.uasset'
+[2026.03.24-21.03.31:359][544]LogFileHelpers: Auto-saving content packages took 0.022
+[2026.03.24-21.03.34:211][553]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-21.03.34:313][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog] ([2] browsable assets)...
+[2026.03.24-21.03.34:313][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog]
+[2026.03.24-21.03.34:333][553]LogSavePackage: Moving output files for package: /Game/0-Main/Scenarios/Test2/WBP_ShopDialog
+[2026.03.24-21.03.34:334][553]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/WBP_ShopDialog4D32C18341D65D9240E857ABB06723A2.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Scenarios/Test2/WBP_ShopDialog.uasset'
+[2026.03.24-21.03.34:355][553]LogFileHelpers: InternalPromptForCheckoutAndSave took 144.110 ms (total: 5.96 sec)
+[2026.03.24-21.03.34:455][553]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-21.03.34:455][553]LogContentValidation: Enabled validators:
+[2026.03.24-21.03.34:455][553]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-21.03.34:455][553]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-21.03.34:455][553]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-21.03.34:455][553]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-21.03.34:455][553]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-21.03.34:455][553]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-21.03.34:456][553]AssetCheck: /Game/0-Main/Scenarios/Test2/WBP_ShopDialog Validating asset
+[2026.03.24-21.03.37:846][731]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.24-21.03.37:857][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.24-21.03.37:858][731]LogPlayLevel: Creating play world package: /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2
+[2026.03.24-21.03.37:859][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001936s)
+[2026.03.24-21.03.37:860][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/0-Main/Maps/Test2/Map_Test2.Map_Test2 to /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2.Map_Test2 (0.001981s)
+[2026.03.24-21.03.37:893][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.03.24-21.03.37:896][731]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Test2
+[2026.03.24-21.03.37:898][731]LogPlayLevel: PIE: World Init took: (0.002233s)
+[2026.03.24-21.03.37:899][731]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2026.03.24-21.03.37:899][731]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.24-21.03.37:899][731]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.24-21.03.37:899][731]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.24-21.03.37:899][731]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.24-21.03.37:899][731]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.24-21.03.37:899][731]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.24-21.03.37:899][731]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.24-21.03.37:899][731]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.24-21.03.37:899][731]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.24-21.03.37:899][731]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.24-21.03.37:899][731]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.24-21.03.37:902][731]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.24-21.03.37:933][731]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.03.24-21.03.37:933][731]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.24-21.03.37:933][731]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.24-21.03.37:933][731]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.24-21.03.37:933][731]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=52
+[2026.03.24-21.03.37:933][731]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=52
+[2026.03.24-21.03.37:936][731]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=52
+[2026.03.24-21.03.37:936][731]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=52
+[2026.03.24-21.03.37:936][731]LogInit: FAudioDevice initialized with ID 52.
+[2026.03.24-21.03.37:936][731]LogAudio: Display: Audio Device (ID: 52) registered with world 'Map_Test2'.
+[2026.03.24-21.03.37:936][731]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 52
+[2026.03.24-21.03.37:940][731]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2026.03.24-21.03.37:942][731]LogWorld: Bringing World /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2.Map_Test2 up for play (max tick rate 165) at 2026.03.24-22.03.37
+[2026.03.24-21.03.37:942][731]LogWorld: Bringing up level for play took: 0.000795
+[2026.03.24-21.03.37:945][731]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2026.03.24-21.03.37:949][731]t.MaxFPS = "165"
+[2026.03.24-21.03.37:949][731]r.VSync = "0"
+[2026.03.24-21.03.37:971][731]LogBlueprintUserMessages: [BP_Test2_Controller_C_1] TEST2 STARTCatalogSize=20;CatalogRows.length=992;CriteriaCount=2;DialogOptionsCount=2;SellerGoal=0;PlayerProfile=0;
+[2026.03.24-21.03.37:973][731]PIE: Server logged in
+[2026.03.24-21.03.37:976][731]PIE: Play in editor total start time 0,118 seconds.
+[2026.03.24-21.03.38:030][731]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.24-21.03.38:088][732]LogCsvProfiler: Display: Capture Starting
+[2026.03.24-21.03.38:089][732]LogCsvProfiler: Display: Metadata set : csvid="7CF63BDB437E7513110C20BA5EC78CB0"
+[2026.03.24-21.03.38:089][732]LogCsvProfiler: Display: Capture started. CSV ID: 7CF63BDB437E7513110C20BA5EC78CB0
+[2026.03.24-21.03.38:089][732]LogCsvProfiler: Display: Metadata set : starttimestamp="1774386218"
+[2026.03.24-21.03.38:092][732]LogCsvProfiler: Csv profiler benchmark completed (10000 iterations). Time taken: 2.99ms
+[2026.03.24-21.03.38:092][732]LogCsvProfiler: Timing stat ns: 47.96ns
+[2026.03.24-21.03.38:092][732]LogCsvProfiler: Custom stat ns: 26.80ns
+[2026.03.24-21.03.38:092][732]LogCsvProfiler: Display: Metadata set : csvbench_timingstat_ns="47.960000"
+[2026.03.24-21.03.38:092][732]LogCsvProfiler: Display: Metadata set : csvbench_customstat_ns="26.797500"
+[2026.03.24-21.03.38:092][732]LogCsvProfiler: Display: Metadata set : csvbench_duration_ms="2.990600"
+[2026.03.24-21.03.42:852][ 88]LogCsvProfiler: Display: CSVEvent "Cmd: csvprofile stop" [Frame 356]
+[2026.03.24-21.03.42:852][ 88]LogCsvProfiler: Display: Metadata set : endtimestamp="1774386222"
+[2026.03.24-21.03.42:852][ 88]LogCsvProfiler: Display: Metadata set : captureduration="4.763934"
+[2026.03.24-21.03.42:852][ 88]LogBlueprintUserMessages: [BP_TestManager_C_1] RUN_END;RunIDjScenario;MapMap_Test2;Tmax5.0;FPSavg82.080546;FPSmin4.06613;FPSmax127.134252;FRAMEavg0.014013;FRAMEmin0.007866;FRAMEmax0.245934;
+[2026.03.24-21.03.42:869][ 89]LogCsvProfiler: Display: Capture Stop requested
+[2026.03.24-21.03.42:869][ 89]LogStreaming: Display: Dumping async load requests & callstacks to ../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/Profiling/AsyncLoadRequests_2026.03.24-22.03.42.log
+[2026.03.24-21.03.42:913][ 89]LogCsvProfiler: Display: Capture Ending
+[2026.03.24-21.03.42:920][ 89]LogCsvProfiler: Display: Capture Ended. Writing CSV to file : ../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/Profiling/CSV/Profile(20260324_220338).csv
+[2026.03.24-21.03.42:920][ 90]LogCsvProfiler: Display:   Frames : 357
+[2026.03.24-21.03.42:920][ 90]LogCsvProfiler: Display:   Peak memory usage  : 1.16MB
+[2026.03.24-21.03.42:920][ 90]LogCsvProfiler: Display:   CSV finalize time : 0.008 seconds
+[2026.03.24-21.03.56:714][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.24-21.03.56:714][368]LogWorld: BeginTearingDown for /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2
+[2026.03.24-21.03.56:714][368]LogWorld: UWorld::CleanupWorld for Map_Test2, bSessionEnded=true, bCleanupResources=true
+[2026.03.24-21.03.56:715][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-21.03.56:721][368]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.24-21.03.56:726][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-21.03.56:755][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.24-21.03.56:755][368]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 52
+[2026.03.24-21.03.56:755][368]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52, StreamState=4
+[2026.03.24-21.03.56:758][368]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52, StreamState=2
+[2026.03.24-21.03.56:767][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.24-21.03.56:857][369]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2026.03.24-21.05.24:774][921]LogDerivedDataCache: C:/Users/2004i/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.24-21.05.49:572][818]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14540.754883
+[2026.03.24-21.05.49:775][830]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-21.05.49:775][830]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14540.942383, Update Interval: 313.826721
+[2026.03.24-21.06.06:796][804]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.03.24-21.06.06:797][804]LogWindowsTextInputMethodSystem: Activated input method: Angielski (Zjednoczone Królestwo) - (Keyboard).
+[2026.03.24-21.06.33:957][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.03.24-21.06.34:490][333]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-21.06.34:565][333]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/0-Main/Scenarios/Test2/BP_Test2_Controller] ([2] browsable assets)...
+[2026.03.24-21.06.34:565][333]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Scenarios/Test2/BP_Test2_Controller]
+[2026.03.24-21.06.34:588][333]LogSavePackage: Moving output files for package: /Game/0-Main/Scenarios/Test2/BP_Test2_Controller
+[2026.03.24-21.06.34:589][333]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/BP_Test2_ControllerAE0BE9BB4FADC716E33E3A90851CAFC2.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Scenarios/Test2/BP_Test2_Controller.uasset'
+[2026.03.24-21.06.34:605][333]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.098 ms (total: 6.08 sec)
+[2026.03.24-21.06.34:689][333]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-21.06.34:689][333]LogContentValidation: Enabled validators:
+[2026.03.24-21.06.34:689][333]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-21.06.34:689][333]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-21.06.34:689][333]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-21.06.34:689][333]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-21.06.34:689][333]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-21.06.34:689][333]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-21.06.34:690][333]AssetCheck: /Game/0-Main/Scenarios/Test2/BP_Test2_Controller Validating asset
+[2026.03.24-21.06.36:073][428]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.24-21.06.36:082][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.24-21.06.36:083][428]LogPlayLevel: Creating play world package: /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2
+[2026.03.24-21.06.36:086][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002443s)
+[2026.03.24-21.06.36:086][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/0-Main/Maps/Test2/Map_Test2.Map_Test2 to /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2.Map_Test2 (0.002519s)
+[2026.03.24-21.06.36:119][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.03.24-21.06.36:125][428]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Test2
+[2026.03.24-21.06.36:128][428]LogPlayLevel: PIE: World Init took: (0.001888s)
+[2026.03.24-21.06.36:129][428]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2026.03.24-21.06.36:129][428]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.24-21.06.36:129][428]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.24-21.06.36:129][428]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.24-21.06.36:129][428]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.24-21.06.36:129][428]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.24-21.06.36:129][428]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.24-21.06.36:129][428]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.24-21.06.36:129][428]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.24-21.06.36:129][428]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.24-21.06.36:129][428]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.24-21.06.36:129][428]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.24-21.06.36:131][428]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.24-21.06.36:163][428]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.03.24-21.06.36:164][428]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.24-21.06.36:164][428]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.24-21.06.36:164][428]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.24-21.06.36:164][428]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=53
+[2026.03.24-21.06.36:164][428]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=53
+[2026.03.24-21.06.36:166][428]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=53
+[2026.03.24-21.06.36:166][428]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=53
+[2026.03.24-21.06.36:166][428]LogInit: FAudioDevice initialized with ID 53.
+[2026.03.24-21.06.36:166][428]LogAudio: Display: Audio Device (ID: 53) registered with world 'Map_Test2'.
+[2026.03.24-21.06.36:166][428]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 53
+[2026.03.24-21.06.36:171][428]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2026.03.24-21.06.36:172][428]LogWorld: Bringing World /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2.Map_Test2 up for play (max tick rate 165) at 2026.03.24-22.06.36
+[2026.03.24-21.06.36:173][428]LogWorld: Bringing up level for play took: 0.000741
+[2026.03.24-21.06.36:175][428]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2026.03.24-21.06.36:179][428]t.MaxFPS = "165"
+[2026.03.24-21.06.36:180][428]r.VSync = "0"
+[2026.03.24-21.06.36:204][428]LogBlueprintUserMessages: [BP_Test2_Controller_C_1] TEST2 STARTCatalogSize=20;CatalogRows.length=992;CriteriaCount=2;DialogOptionsCount=2;SellerGoal=0;PlayerProfile=0;
+[2026.03.24-21.06.36:208][428]PIE: Server logged in
+[2026.03.24-21.06.36:211][428]PIE: Play in editor total start time 0,129 seconds.
+[2026.03.24-21.06.36:229][429]LogCsvProfiler: Display: Capture Starting
+[2026.03.24-21.06.36:229][429]LogCsvProfiler: Display: Metadata set : csvid="79EC3AA2474011F11E925CAD474B9D30"
+[2026.03.24-21.06.36:229][429]LogCsvProfiler: Display: Capture started. CSV ID: 79EC3AA2474011F11E925CAD474B9D30
+[2026.03.24-21.06.36:229][429]LogCsvProfiler: Display: Metadata set : starttimestamp="1774386396"
+[2026.03.24-21.06.36:232][429]LogCsvProfiler: Csv profiler benchmark completed (10000 iterations). Time taken: 3.21ms
+[2026.03.24-21.06.36:232][429]LogCsvProfiler: Timing stat ns: 50.64ns
+[2026.03.24-21.06.36:232][429]LogCsvProfiler: Custom stat ns: 29.55ns
+[2026.03.24-21.06.36:232][429]LogCsvProfiler: Display: Metadata set : csvbench_timingstat_ns="50.642500"
+[2026.03.24-21.06.36:232][429]LogCsvProfiler: Display: Metadata set : csvbench_customstat_ns="29.550000"
+[2026.03.24-21.06.36:232][429]LogCsvProfiler: Display: Metadata set : csvbench_duration_ms="3.208200"
+[2026.03.24-21.06.36:263][429]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.24-21.06.39:324][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.24-21.06.39:324][706]LogWorld: BeginTearingDown for /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2
+[2026.03.24-21.06.39:324][706]LogWorld: UWorld::CleanupWorld for Map_Test2, bSessionEnded=true, bCleanupResources=true
+[2026.03.24-21.06.39:325][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-21.06.39:334][706]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.24-21.06.39:338][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-21.06.39:344][706]LogCsvProfiler: Display: CSVEvent "GC" [Frame 277]
+[2026.03.24-21.06.39:362][706]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.24-21.06.39:362][706]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 53
+[2026.03.24-21.06.39:362][706]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53, StreamState=4
+[2026.03.24-21.06.39:364][706]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53, StreamState=2
+[2026.03.24-21.06.39:371][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.24-21.06.39:373][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.03.24-21.06.39:450][707]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2026.03.24-21.07.01:204][932]LogCsvProfiler: Display: CSVEvent "GC" [Frame 1503]
+[2026.03.24-21.07.01:238][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.03.24-21.07.01:864][952]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-21.07.01:929][952]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/0-Main/Scenarios/Test2/WBP_OptionButton] ([2] browsable assets)...
+[2026.03.24-21.07.01:934][952]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/0-Main/Scenarios/Test2/WBP_OptionButton.WBP_OptionButton]
+[2026.03.24-21.07.01:934][952]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Scenarios/Test2/WBP_OptionButton]
+[2026.03.24-21.07.01:945][952]LogSavePackage: Moving output files for package: /Game/0-Main/Scenarios/Test2/WBP_OptionButton
+[2026.03.24-21.07.01:946][952]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/WBP_OptionButtonA65BD124459CB8B9DCCA5685E8A38682.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Scenarios/Test2/WBP_OptionButton.uasset'
+[2026.03.24-21.07.01:961][952]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.879 ms (total: 6.17 sec)
+[2026.03.24-21.07.02:039][952]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-21.07.02:039][952]LogContentValidation: Enabled validators:
+[2026.03.24-21.07.02:039][952]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-21.07.02:039][952]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-21.07.02:039][952]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-21.07.02:039][952]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-21.07.02:039][952]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-21.07.02:039][952]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-21.07.02:040][952]AssetCheck: /Game/0-Main/Scenarios/Test2/WBP_OptionButton Validating asset
+[2026.03.24-21.07.08:177][258]LogCsvProfiler: Display: CSVEvent "GC" [Frame 1829]
+[2026.03.24-21.07.08:215][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.24-21.07.08:962][288]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-21.07.09:033][288]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog] ([2] browsable assets)...
+[2026.03.24-21.07.09:036][288]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/0-Main/Scenarios/Test2/WBP_ShopDialog.WBP_ShopDialog]
+[2026.03.24-21.07.09:036][288]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog]
+[2026.03.24-21.07.09:056][288]LogSavePackage: Moving output files for package: /Game/0-Main/Scenarios/Test2/WBP_ShopDialog
+[2026.03.24-21.07.09:056][288]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/WBP_ShopDialog1065BA3643E0B27316F7679AEC31D3AB.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Scenarios/Test2/WBP_ShopDialog.uasset'
+[2026.03.24-21.07.09:072][288]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.258 ms (total: 6.28 sec)
+[2026.03.24-21.07.09:148][288]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-21.07.09:148][288]LogContentValidation: Enabled validators:
+[2026.03.24-21.07.09:148][288]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-21.07.09:148][288]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-21.07.09:148][288]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-21.07.09:148][288]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-21.07.09:148][288]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-21.07.09:148][288]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-21.07.09:149][288]AssetCheck: /Game/0-Main/Scenarios/Test2/WBP_ShopDialog Validating asset
+[2026.03.24-21.07.10:870][417]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.24-21.07.10:880][417]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.24-21.07.10:914][417]LogPlayLevel: Creating play world package: /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2
+[2026.03.24-21.07.10:915][417]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001676s)
+[2026.03.24-21.07.10:915][417]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/0-Main/Maps/Test2/Map_Test2.Map_Test2 to /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2.Map_Test2 (0.001723s)
+[2026.03.24-21.07.10:920][417]LogCsvProfiler: Display: CSVEvent "GC" [Frame 1988]
+[2026.03.24-21.07.10:943][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.03.24-21.07.10:947][417]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Test2
+[2026.03.24-21.07.10:948][417]LogPlayLevel: PIE: World Init took: (0.001613s)
+[2026.03.24-21.07.10:949][417]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2026.03.24-21.07.10:949][417]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.24-21.07.10:949][417]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.24-21.07.10:949][417]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.24-21.07.10:949][417]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.24-21.07.10:949][417]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.24-21.07.10:949][417]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.24-21.07.10:949][417]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.24-21.07.10:949][417]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.24-21.07.10:949][417]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.24-21.07.10:949][417]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.24-21.07.10:949][417]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.24-21.07.10:952][417]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.24-21.07.10:980][417]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.03.24-21.07.10:980][417]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.24-21.07.10:980][417]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.24-21.07.10:980][417]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.24-21.07.10:981][417]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=54
+[2026.03.24-21.07.10:981][417]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=54
+[2026.03.24-21.07.10:983][417]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=54
+[2026.03.24-21.07.10:983][417]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=54
+[2026.03.24-21.07.10:983][417]LogInit: FAudioDevice initialized with ID 54.
+[2026.03.24-21.07.10:983][417]LogAudio: Display: Audio Device (ID: 54) registered with world 'Map_Test2'.
+[2026.03.24-21.07.10:983][417]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 54
+[2026.03.24-21.07.10:987][417]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2026.03.24-21.07.10:988][417]LogWorld: Bringing World /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2.Map_Test2 up for play (max tick rate 165) at 2026.03.24-22.07.10
+[2026.03.24-21.07.10:988][417]LogWorld: Bringing up level for play took: 0.000649
+[2026.03.24-21.07.10:990][417]LogOnline: OSS: Created online subsystem instance for: :Context_71
+[2026.03.24-21.07.10:994][417]LogCsvProfiler: Display: CSVEvent "Cmd: t.MaxFPS 165" [Frame 1988]
+[2026.03.24-21.07.10:994][417]t.MaxFPS = "165"
+[2026.03.24-21.07.10:994][417]LogCsvProfiler: Display: CSVEvent "Cmd: r.VSync 0" [Frame 1988]
+[2026.03.24-21.07.10:994][417]r.VSync = "0"
+[2026.03.24-21.07.10:994][417]LogCsvProfiler: Display: CSVEvent "Cmd: csvprofile start" [Frame 1988]
+[2026.03.24-21.07.11:018][417]LogBlueprintUserMessages: [BP_Test2_Controller_C_1] TEST2 STARTCatalogSize=20;CatalogRows.length=992;CriteriaCount=2;DialogOptionsCount=2;SellerGoal=0;PlayerProfile=0;
+[2026.03.24-21.07.11:020][417]PIE: Server logged in
+[2026.03.24-21.07.11:022][417]PIE: Play in editor total start time 0,143 seconds.
+[2026.03.24-21.07.11:070][417]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.24-21.07.11:146][418]LogCsvProfiler: Warning: Capture start requested, but a capture was already running
+[2026.03.24-21.07.12:583][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.24-21.07.12:583][559]LogWorld: BeginTearingDown for /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2
+[2026.03.24-21.07.12:584][559]LogWorld: UWorld::CleanupWorld for Map_Test2, bSessionEnded=true, bCleanupResources=true
+[2026.03.24-21.07.12:584][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-21.07.12:586][559]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.24-21.07.12:590][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-21.07.12:596][559]LogCsvProfiler: Display: CSVEvent "GC" [Frame 2130]
+[2026.03.24-21.07.12:623][559]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.24-21.07.12:623][559]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 54
+[2026.03.24-21.07.12:624][559]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54, StreamState=4
+[2026.03.24-21.07.12:626][559]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54, StreamState=2
+[2026.03.24-21.07.12:632][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.24-21.07.12:634][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.03.24-21.07.12:713][560]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2026.03.24-21.07.22:636][154]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-21.07.22:713][154]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/0-Main/Core/Configs/DA_Config_default] ([1] browsable assets)...
+[2026.03.24-21.07.22:713][154]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Core/Configs/DA_Config_default]
+[2026.03.24-21.07.22:720][154]LogSavePackage: Moving output files for package: /Game/0-Main/Core/Configs/DA_Config_default
+[2026.03.24-21.07.22:720][154]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/DA_Config_defaultB482ABDB4E9168CFB84B7E967A84E305.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Core/Configs/DA_Config_default.uasset'
+[2026.03.24-21.07.22:738][154]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.135 ms (total: 6.39 sec)
+[2026.03.24-21.07.22:834][154]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-21.07.22:834][154]LogContentValidation: Enabled validators:
+[2026.03.24-21.07.22:834][154]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-21.07.22:834][154]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-21.07.22:834][154]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-21.07.22:834][154]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-21.07.22:834][154]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-21.07.22:834][154]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-21.07.22:834][154]AssetCheck: /Game/0-Main/Core/Configs/DA_Config_default Validating asset
+[2026.03.24-21.07.26:459][397]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.24-21.07.26:468][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.24-21.07.26:468][397]LogPlayLevel: Creating play world package: /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2
+[2026.03.24-21.07.26:470][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001689s)
+[2026.03.24-21.07.26:470][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/0-Main/Maps/Test2/Map_Test2.Map_Test2 to /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2.Map_Test2 (0.001728s)
+[2026.03.24-21.07.26:475][397]LogCsvProfiler: Display: CSVEvent "GC" [Frame 2968]
+[2026.03.24-21.07.26:495][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.03.24-21.07.26:499][397]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Test2
+[2026.03.24-21.07.26:500][397]LogPlayLevel: PIE: World Init took: (0.001770s)
+[2026.03.24-21.07.26:502][397]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2026.03.24-21.07.26:502][397]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.24-21.07.26:502][397]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.24-21.07.26:502][397]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.24-21.07.26:502][397]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.24-21.07.26:502][397]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.24-21.07.26:502][397]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.24-21.07.26:502][397]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.24-21.07.26:502][397]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.24-21.07.26:502][397]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.24-21.07.26:502][397]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.24-21.07.26:502][397]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.24-21.07.26:504][397]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.24-21.07.26:535][397]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.03.24-21.07.26:535][397]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.24-21.07.26:535][397]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.24-21.07.26:535][397]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.24-21.07.26:536][397]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=55
+[2026.03.24-21.07.26:536][397]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=55
+[2026.03.24-21.07.26:538][397]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=55
+[2026.03.24-21.07.26:538][397]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=55
+[2026.03.24-21.07.26:538][397]LogInit: FAudioDevice initialized with ID 55.
+[2026.03.24-21.07.26:538][397]LogAudio: Display: Audio Device (ID: 55) registered with world 'Map_Test2'.
+[2026.03.24-21.07.26:538][397]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 55
+[2026.03.24-21.07.26:542][397]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2026.03.24-21.07.26:543][397]LogWorld: Bringing World /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2.Map_Test2 up for play (max tick rate 165) at 2026.03.24-22.07.26
+[2026.03.24-21.07.26:543][397]LogWorld: Bringing up level for play took: 0.000759
+[2026.03.24-21.07.26:545][397]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2026.03.24-21.07.26:549][397]LogCsvProfiler: Display: CSVEvent "Cmd: t.MaxFPS 165" [Frame 2968]
+[2026.03.24-21.07.26:549][397]t.MaxFPS = "165"
+[2026.03.24-21.07.26:549][397]LogCsvProfiler: Display: CSVEvent "Cmd: r.VSync 0" [Frame 2968]
+[2026.03.24-21.07.26:549][397]r.VSync = "0"
+[2026.03.24-21.07.26:549][397]LogCsvProfiler: Display: CSVEvent "Cmd: csvprofile start" [Frame 2968]
+[2026.03.24-21.07.26:573][397]LogBlueprintUserMessages: [BP_Test2_Controller_C_1] TEST2 STARTCatalogSize=20;CatalogRows.length=992;CriteriaCount=2;DialogOptionsCount=6;SellerGoal=0;PlayerProfile=0;
+[2026.03.24-21.07.26:577][397]PIE: Server logged in
+[2026.03.24-21.07.26:579][397]PIE: Play in editor total start time 0,112 seconds.
+[2026.03.24-21.07.26:624][397]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.24-21.07.26:680][398]LogCsvProfiler: Warning: Capture start requested, but a capture was already running
+[2026.03.24-21.07.31:015][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.24-21.07.31:015][824]LogWorld: BeginTearingDown for /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2
+[2026.03.24-21.07.31:015][824]LogWorld: UWorld::CleanupWorld for Map_Test2, bSessionEnded=true, bCleanupResources=true
+[2026.03.24-21.07.31:015][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-21.07.31:025][824]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.24-21.07.31:029][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-21.07.31:035][824]LogCsvProfiler: Display: CSVEvent "GC" [Frame 3395]
+[2026.03.24-21.07.31:055][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.24-21.07.31:055][824]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 55
+[2026.03.24-21.07.31:055][824]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55, StreamState=4
+[2026.03.24-21.07.31:057][824]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55, StreamState=2
+[2026.03.24-21.07.31:065][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.03.24-21.07.31:147][825]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2026.03.24-21.07.38:325][117]LogCsvProfiler: Display: CSVEvent "GC" [Frame 3688]
+[2026.03.24-21.07.38:343][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.03.24-21.07.39:514][164]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.24-21.07.39:586][164]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog] ([2] browsable assets)...
+[2026.03.24-21.07.39:589][164]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/0-Main/Scenarios/Test2/WBP_ShopDialog.WBP_ShopDialog]
+[2026.03.24-21.07.39:589][164]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Scenarios/Test2/WBP_ShopDialog]
+[2026.03.24-21.07.39:609][164]LogSavePackage: Moving output files for package: /Game/0-Main/Scenarios/Test2/WBP_ShopDialog
+[2026.03.24-21.07.39:609][164]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/WBP_ShopDialogB013684C4CC6D3FFEE9A1F9C33DA0601.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Scenarios/Test2/WBP_ShopDialog.uasset'
+[2026.03.24-21.07.39:624][164]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.089 ms (total: 6.50 sec)
+[2026.03.24-21.07.39:696][164]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.24-21.07.39:696][164]LogContentValidation: Enabled validators:
+[2026.03.24-21.07.39:696][164]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.24-21.07.39:696][164]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.24-21.07.39:696][164]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.24-21.07.39:696][164]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.24-21.07.39:696][164]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.24-21.07.39:696][164]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.24-21.07.39:696][164]AssetCheck: /Game/0-Main/Scenarios/Test2/WBP_ShopDialog Validating asset
+[2026.03.24-21.07.41:082][258]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.24-21.07.41:089][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.24-21.07.41:124][258]LogPlayLevel: Creating play world package: /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2
+[2026.03.24-21.07.41:125][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001667s)
+[2026.03.24-21.07.41:125][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/0-Main/Maps/Test2/Map_Test2.Map_Test2 to /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2.Map_Test2 (0.001713s)
+[2026.03.24-21.07.41:130][258]LogCsvProfiler: Display: CSVEvent "GC" [Frame 3829]
+[2026.03.24-21.07.41:147][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.03.24-21.07.41:150][258]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Test2
+[2026.03.24-21.07.41:153][258]LogPlayLevel: PIE: World Init took: (0.002277s)
+[2026.03.24-21.07.41:153][258]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2026.03.24-21.07.41:154][258]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.24-21.07.41:154][258]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.24-21.07.41:154][258]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.24-21.07.41:154][258]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.24-21.07.41:154][258]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.24-21.07.41:154][258]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.24-21.07.41:154][258]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.24-21.07.41:154][258]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.24-21.07.41:154][258]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.24-21.07.41:154][258]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.24-21.07.41:154][258]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.24-21.07.41:155][258]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.24-21.07.41:185][258]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2026.03.24-21.07.41:185][258]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.24-21.07.41:185][258]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.24-21.07.41:185][258]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.24-21.07.41:185][258]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=56
+[2026.03.24-21.07.41:185][258]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=56
+[2026.03.24-21.07.41:188][258]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=56
+[2026.03.24-21.07.41:188][258]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=56
+[2026.03.24-21.07.41:188][258]LogInit: FAudioDevice initialized with ID 56.
+[2026.03.24-21.07.41:188][258]LogAudio: Display: Audio Device (ID: 56) registered with world 'Map_Test2'.
+[2026.03.24-21.07.41:188][258]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 56
+[2026.03.24-21.07.41:192][258]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2026.03.24-21.07.41:192][258]LogWorld: Bringing World /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2.Map_Test2 up for play (max tick rate 165) at 2026.03.24-22.07.41
+[2026.03.24-21.07.41:193][258]LogWorld: Bringing up level for play took: 0.000647
+[2026.03.24-21.07.41:195][258]LogOnline: OSS: Created online subsystem instance for: :Context_73
+[2026.03.24-21.07.41:199][258]LogCsvProfiler: Display: CSVEvent "Cmd: t.MaxFPS 165" [Frame 3829]
+[2026.03.24-21.07.41:199][258]t.MaxFPS = "165"
+[2026.03.24-21.07.41:199][258]LogCsvProfiler: Display: CSVEvent "Cmd: r.VSync 0" [Frame 3829]
+[2026.03.24-21.07.41:199][258]r.VSync = "0"
+[2026.03.24-21.07.41:199][258]LogCsvProfiler: Display: CSVEvent "Cmd: csvprofile start" [Frame 3829]
+[2026.03.24-21.07.41:222][258]LogBlueprintUserMessages: [BP_Test2_Controller_C_1] TEST2 STARTCatalogSize=20;CatalogRows.length=992;CriteriaCount=2;DialogOptionsCount=6;SellerGoal=0;PlayerProfile=0;
+[2026.03.24-21.07.41:224][258]PIE: Server logged in
+[2026.03.24-21.07.41:227][258]PIE: Play in editor total start time 0,138 seconds.
+[2026.03.24-21.07.41:242][259]LogCsvProfiler: Warning: Capture start requested, but a capture was already running
+[2026.03.24-21.07.41:277][259]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.24-21.07.44:815][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.24-21.07.44:815][598]LogWorld: BeginTearingDown for /Game/0-Main/Maps/Test2/UEDPIE_0_Map_Test2
+[2026.03.24-21.07.44:815][598]LogWorld: UWorld::CleanupWorld for Map_Test2, bSessionEnded=true, bCleanupResources=true
+[2026.03.24-21.07.44:815][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-21.07.44:818][598]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.24-21.07.44:822][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.24-21.07.44:828][598]LogCsvProfiler: Display: CSVEvent "GC" [Frame 4169]
+[2026.03.24-21.07.44:846][598]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.24-21.07.44:846][598]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 56
+[2026.03.24-21.07.44:847][598]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56, StreamState=4
+[2026.03.24-21.07.44:849][598]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56, StreamState=2
+[2026.03.24-21.07.44:857][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.24-21.07.44:860][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.03.24-21.07.44:940][599]LogPlayLevel: Display: Destroying online subsystem :Context_73
