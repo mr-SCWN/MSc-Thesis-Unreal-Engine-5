@@ -7004,3 +7004,20 @@ LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
 [2026.06.22-16.11.45:873][841]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/0-Main/Scenarios/Test1/Blueprints/BP_Guard_Base_Auto9
 [2026.06.22-16.11.45:873][841]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/BP_Guard_Base_Auto90240961A4802CDD97DA4B0BF7159B29C.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/Autosaves/Game/0-Main/Scenarios/Test1/Blueprints/BP_Guard_Base_Auto9.uasset'
 [2026.06.22-16.11.45:875][841]LogFileHelpers: Auto-saving content packages took 0.301
+[2026.06.22-16.12.25:075][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.06.22-16.12.26:231][962]LogSlate: Window 'Save Content' being destroyed
+[2026.06.22-16.12.26:261][962]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.22-16.12.26:329][962]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/0-Main/Scenarios/Test1/Blueprints/BP_Guard_Base] ([2] browsable assets)...
+[2026.06.22-16.12.26:329][962]OBJ SavePackage: Finished generating thumbnails for package [/Game/0-Main/Scenarios/Test1/Blueprints/BP_Guard_Base]
+[2026.06.22-16.12.26:408][962]LogSavePackage: Moving output files for package: /Game/0-Main/Scenarios/Test1/Blueprints/BP_Guard_Base
+[2026.06.22-16.12.26:408][962]LogSavePackage: Moving '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Saved/BP_Guard_Base6C05CCFC4255DACD1A11F6A7EE5176E9.tmp' to '../../../../../../Users/2004i/Desktop/studia - GiTI PP/Praca Magisterska/MSc-Thesis-Unreal-Engine-5/MSc_UE5/Content/0-Main/Scenarios/Test1/Blueprints/BP_Guard_Base.uasset'
+[2026.06.22-16.12.26:420][962]LogFileHelpers: InternalPromptForCheckoutAndSave took 158.647 ms (total: 1.90 sec)
+[2026.06.22-16.12.26:498][962]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.22-16.12.26:498][962]LogContentValidation: Enabled validators:
+[2026.06.22-16.12.26:498][962]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.22-16.12.26:498][962]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.22-16.12.26:498][962]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.22-16.12.26:498][962]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.22-16.12.26:498][962]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.22-16.12.26:498][962]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.22-16.12.26:498][962]AssetCheck: /Game/0-Main/Scenarios/Test1/Blueprints/BP_Guard_Base Validating asset
